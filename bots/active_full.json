@@ -1,0 +1,453 @@
+[
+  {
+    "id": 20456,
+    "name": "Robert #84",
+    "ts": "Robert #84",
+    "stats": {
+      "regs": 1,
+      "ftds": 0,
+      "dep": 0.0,
+      "rev": 0.0
+    }
+  },
+  {
+    "id": 20459,
+    "name": "Pedro Ivan #90",
+    "ts": "Pedro Ivan #90",
+    "stats": {
+      "regs": 1,
+      "ftds": 0,
+      "dep": 0.0,
+      "rev": 0.0
+    }
+  },
+  {
+    "id": 20019,
+    "name": "Ana Paula #114",
+    "ts": "Ana paula #114",
+    "stats": {
+      "regs": 0,
+      "ftds": 0,
+      "dep": 8.18,
+      "rev": 6.16
+    }
+  },
+  {
+    "id": 17069,
+    "name": "f12bet #46",
+    "ts": "Arthur #46",
+    "stats": {
+      "regs": 0,
+      "ftds": 0,
+      "dep": 97.47000000000001,
+      "rev": -1.4900000000000047
+    }
+  },
+  {
+    "id": 19538,
+    "name": "Gabrieli #110",
+    "ts": "Gabrieli #110",
+    "stats": {
+      "regs": 1,
+      "ftds": 1,
+      "dep": 41.540000000000006,
+      "rev": -34.08000000000001
+    }
+  },
+  {
+    "id": 14080,
+    "name": "onabet #46",
+    "ts": "Arthur #46",
+    "stats": {
+      "regs": 0,
+      "ftds": 0,
+      "dep": 24.61,
+      "rev": 18.080000000000002
+    }
+  },
+  {
+    "id": 19068,
+    "name": "Jonathan #102",
+    "ts": "Jonathan #102",
+    "stats": {
+      "regs": 7,
+      "ftds": 3,
+      "dep": 33.02,
+      "rev": 17.080000000000002
+    }
+  },
+  {
+    "id": 19299,
+    "name": "Lucas #109",
+    "ts": "Lucas #109",
+    "stats": {
+      "regs": 0,
+      "ftds": 0,
+      "dep": 14.75,
+      "rev": -13.100000000000001
+    }
+  },
+  {
+    "id": 19194,
+    "name": "Luis Fernando #112",
+    "ts": "Luis FErnando #112",
+    "stats": {
+      "regs": 7,
+      "ftds": 3,
+      "dep": 46.18000000000001,
+      "rev": -28.33
+    }
+  },
+  {
+    "id": 20589,
+    "name": "Marlon #56",
+    "ts": "Marlon #56",
+    "stats": {
+      "regs": 3,
+      "ftds": 0,
+      "dep": 0.0,
+      "rev": 0.0
+    }
+  },
+  {
+    "id": 20096,
+    "name": "Pedro Ivan #90",
+    "ts": "Pedro Ivan #90",
+    "stats": {
+      "regs": 4,
+      "ftds": 2,
+      "dep": 23.29,
+      "rev": 16.060000000000002
+    }
+  },
+  {
+    "id": 19543,
+    "name": "Gabrieli #110",
+    "ts": "Gabrieli #110",
+    "stats": {
+      "regs": 1,
+      "ftds": 1,
+      "dep": 58.97,
+      "rev": -70.22000000000001
+    }
+  },
+  {
+    "id": 19692,
+    "name": "Leonardo #118",
+    "ts": "Leonardo #118",
+    "stats": {
+      "regs": 1,
+      "ftds": 3,
+      "dep": 29.560000000000002,
+      "rev": 13.71
+    }
+  },
+  {
+    "id": 17017,
+    "name": "telegram",
+    "ts": "Moises #79",
+    "stats": {
+      "regs": 0,
+      "ftds": 0,
+      "dep": 0.0,
+      "rev": 27.16
+    }
+  },
+  {
+    "id": 17035,
+    "name": "Jonathan #102",
+    "ts": "Jonathan #102",
+    "stats": {
+      "regs": 6,
+      "ftds": 4,
+      "dep": 51.410000000000004,
+      "rev": -3.17
+    }
+  },
+  {
+    "id": 19072,
+    "name": "Lucas #109",
+    "ts": "Lucas #109",
+    "stats": {
+      "regs": 0,
+      "ftds": 0,
+      "dep": 16.39,
+      "rev": 10.61
+    }
+  },
+  {
+    "id": 19196,
+    "name": "Luis Fernando #112",
+    "ts": "Luis FErnando #112",
+    "stats": {
+      "regs": 6,
+      "ftds": 1,
+      "dep": 13.270000000000001,
+      "rev": 7.550000000000001
+    }
+  },
+  {
+    "id": 20094,
+    "name": "Pedro Ivan #90",
+    "ts": "Pedro Ivan #90",
+    "stats": {
+      "regs": 6,
+      "ftds": 4,
+      "dep": 38.75,
+      "rev": 12.200000000000003
+    }
+  },
+  {
+    "id": 19540,
+    "name": "Gabrieli #110",
+    "ts": "Gabrieli #110",
+    "stats": {
+      "regs": 1,
+      "ftds": 1,
+      "dep": 57.96,
+      "rev": -55.02
+    }
+  },
+  {
+    "id": 20529,
+    "name": "Lucas #109",
+    "ts": "Lucas #109",
+    "stats": {
+      "regs": 0,
+      "ftds": 0,
+      "dep": 15.74,
+      "rev": 11.47
+    }
+  },
+  {
+    "id": 20581,
+    "name": "Marlon #56",
+    "ts": "Marlon #56",
+    "stats": {
+      "regs": 0,
+      "ftds": 6,
+      "dep": 3337.0299999999997,
+      "rev": -1449.43
+    }
+  },
+  {
+    "id": 20463,
+    "name": "Gabrieli #110",
+    "ts": "Gabrieli #110",
+    "stats": {
+      "regs": 0,
+      "ftds": 0,
+      "dep": 0.0,
+      "rev": 20.85
+    }
+  },
+  {
+    "id": 5960,
+    "name": "Nobretips - Superbet",
+    "ts": "NobreTips",
+    "stats": {
+      "regs": 0,
+      "ftds": 0,
+      "dep": 99.47,
+      "rev": 291.15000000000003
+    }
+  },
+  {
+    "id": 5983,
+    "name": "Fred - SuperBet",
+    "ts": "FredRing",
+    "stats": {
+      "regs": 0,
+      "ftds": 1,
+      "dep": 18.880000000000003,
+      "rev": 10.73
+    }
+  },
+  {
+    "id": 6623,
+    "name": "TipsShow - SuperBet",
+    "ts": "Anderson Show",
+    "stats": {
+      "regs": 0,
+      "ftds": 0,
+      "dep": 52.040000000000006,
+      "rev": 2.3900000000000015
+    }
+  },
+  {
+    "id": 8447,
+    "name": "PRScore - SuperBet",
+    "ts": "Pedro Remes",
+    "stats": {
+      "regs": 0,
+      "ftds": 0,
+      "dep": 16.43,
+      "rev": 0.0
+    }
+  },
+  {
+    "id": 16019,
+    "name": "Palpites ALS SUPERBET",
+    "ts": "Palpites ALS #47",
+    "stats": {
+      "regs": 0,
+      "ftds": 0,
+      "dep": 226.41,
+      "rev": 51.510000000000005
+    }
+  },
+  {
+    "id": 19704,
+    "name": "Robert #84",
+    "ts": "Robert #84",
+    "stats": {
+      "regs": 1,
+      "ftds": 1,
+      "dep": 16.39,
+      "rev": 1.6
+    }
+  },
+  {
+    "id": 19723,
+    "name": "Gabrieli #110",
+    "ts": "Gabrieli #110",
+    "stats": {
+      "regs": 1,
+      "ftds": 1,
+      "dep": 36.4,
+      "rev": 27.94
+    }
+  },
+  {
+    "id": 20802,
+    "name": "Fernanda #126",
+    "ts": "Fernanda #126",
+    "stats": {
+      "regs": 1,
+      "ftds": 1,
+      "dep": 183.38000000000002,
+      "rev": -761.26
+    }
+  },
+  {
+    "id": 19195,
+    "name": "Luis Fernando #112",
+    "ts": "Luis FErnando #112",
+    "stats": {
+      "regs": 1,
+      "ftds": 1,
+      "dep": 13.32,
+      "rev": 13.22
+    }
+  },
+  {
+    "id": 20095,
+    "name": "Pedro Ivan #90",
+    "ts": "Pedro Ivan #90",
+    "stats": {
+      "regs": 1,
+      "ftds": 0,
+      "dep": 0.0,
+      "rev": 0.0
+    }
+  },
+  {
+    "id": 15385,
+    "name": "Fred - EstrelaBet",
+    "ts": "FredRing",
+    "stats": {
+      "regs": 0,
+      "ftds": 0,
+      "dep": 1.6400000000000001,
+      "rev": 1.0599999999999998
+    }
+  },
+  {
+    "id": 13375,
+    "name": "DG. EstrelaBet",
+    "ts": "DG.C TIPS",
+    "stats": {
+      "regs": 0,
+      "ftds": 0,
+      "dep": 0.0,
+      "rev": 0.04
+    }
+  },
+  {
+    "id": 20252,
+    "name": "Jonathan #102",
+    "ts": "Jonathan #102",
+    "stats": {
+      "regs": 7,
+      "ftds": 4,
+      "dep": 49.790000000000006,
+      "rev": 1.7500000000000036
+    }
+  },
+  {
+    "id": 20091,
+    "name": "Lucas #109",
+    "ts": "Lucas #109",
+    "stats": {
+      "regs": 0,
+      "ftds": 0,
+      "dep": 0.0,
+      "rev": 248.86
+    }
+  },
+  {
+    "id": 19861,
+    "name": "Luis FErnando #112",
+    "ts": "Luis FErnando #112",
+    "stats": {
+      "regs": 3,
+      "ftds": 1,
+      "dep": 231.14000000000001,
+      "rev": 231.14000000000001
+    }
+  },
+  {
+    "id": 20583,
+    "name": "Marlon #56",
+    "ts": "Marlon #56",
+    "stats": {
+      "regs": 8,
+      "ftds": 3,
+      "dep": 2049.55,
+      "rev": 558.2900000000002
+    }
+  },
+  {
+    "id": 20093,
+    "name": "Pedro Ivan #90",
+    "ts": "Pedro Ivan #90",
+    "stats": {
+      "regs": 1,
+      "ftds": 0,
+      "dep": 0.0,
+      "rev": 0.0
+    }
+  },
+  {
+    "id": 19724,
+    "name": "Gabrieli #110",
+    "ts": "Gabrieli #110",
+    "stats": {
+      "regs": 1,
+      "ftds": 1,
+      "dep": 38.370000000000005,
+      "rev": 113.43
+    }
+  },
+  {
+    "id": 19693,
+    "name": "Leonardo #118",
+    "ts": "Leonardo #118",
+    "stats": {
+      "regs": 0,
+      "ftds": 2,
+      "dep": 175.43,
+      "rev": -369.37
+    }
+  }
+]

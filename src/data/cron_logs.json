@@ -1,0 +1,52 @@
+[
+  {
+    "date": "2026-03-31",
+    "startTime": "2026-03-31T14:23:15.125Z",
+    "endTime": "2026-03-31T14:25:00.391Z",
+    "status": "success",
+    "recordsProcessed": 251,
+    "brands": []
+  },
+  {
+    "date": "2026-03-31",
+    "startTime": "2026-03-31T14:22:10.051Z",
+    "endTime": "2026-03-31T14:24:36.739Z",
+    "status": "success",
+    "recordsProcessed": 251,
+    "brands": []
+  },
+  {
+    "date": "2026-03-29",
+    "startTime": "2026-03-29T22:00:46.760Z",
+    "endTime": "2026-03-29T22:02:09.635Z",
+    "status": "error",
+    "message": "result.map is not a function"
+  },
+  {
+    "date": "2026-03-29",
+    "startTime": "2026-03-29T21:50:45.232Z",
+    "endTime": "2026-03-29T21:52:33.735Z",
+    "status": "error",
+    "message": "result.map is not a function"
+  },
+  {
+    "date": "2026-03-29",
+    "startTime": "2026-03-29T21:50:44.488Z",
+    "endTime": "2026-03-29T21:52:33.591Z",
+    "status": "error",
+    "message": "result.map is not a function"
+  },
+  {
+    "date": "2026-03-29",
+    "startTime": "2026-03-29T21:36:54.480Z",
+    "endTime": "2026-03-29T21:37:57.591Z",
+    "status": "success",
+    "recordsProcessed": 106,
+    "brands": [
+      "OddsScanner",
+      "Smartico",
+      "Novibet",
+      "Blaze"
+    ]
+  }
+]

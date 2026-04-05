@@ -1,0 +1,4660 @@
+{
+  "2026-03-28": {
+    "updatedAt": "2026-03-28T20:37:01.225Z",
+    "data": [
+      {
+        "brand": "OddsScanner",
+        "house": "Campeonbet - BR",
+        "source": "Pedro Ivan #90",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 32
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Campeonbet - BR",
+        "source": "Ana paula #114",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 53
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Campeonbet - BR",
+        "source": "Robert #84",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 17
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Campeonbet - BR",
+        "source": "Gabrieli #110",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 25
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Campeonbet - BR",
+        "source": "Jose #144",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Campeonbet - BR",
+        "source": "Allan #138",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "F12.bet - BR",
+        "source": "Jonathan #102",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 39
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "F12.bet - BR",
+        "source": "Leonardo #118",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 7
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Onabet - BR",
+        "source": "Luis FErnando #112",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 26
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Onabet - BR",
+        "source": "Marlon #56",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 15
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Esportes Da Sorte - BR",
+        "source": "Moises #79",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 9
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "SportingBet - BR",
+        "source": "Desconhecido",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 21
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "SportingBet - BR",
+        "source": "Fernanda #126",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 7
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Betfair - BR",
+        "source": "Kennedy #77",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 7
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Betfair - BR",
+        "source": "William #130",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 3
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Betfair - BR",
+        "source": "WILLIAM #149",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 8
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Betfair - BR",
+        "source": "Michael #123",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Betfair - BR",
+        "source": "Vandira #156",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Superbet - BR",
+        "source": "Erick #146",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 12
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Melbet DV - BR",
+        "source": "Jordan #67",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 17
+      },
+      {
+        "brand": "Smartico",
+        "house": "EstrelaBet",
+        "source": "Robert #84",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 6
+      },
+      {
+        "brand": "Smartico",
+        "house": "EstrelaBet",
+        "source": "Gabrieli #110",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 4
+      },
+      {
+        "brand": "Smartico",
+        "house": "EstrelaBet",
+        "source": "PPC AG",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 16
+      },
+      {
+        "brand": "Smartico",
+        "house": "EstrelaBet",
+        "source": "PPC DIRETO",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1
+      },
+      {
+        "brand": "Smartico",
+        "house": "EstrelaBet",
+        "source": "Rayca #133",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 20,
+        "diffNgr": 7.4,
+        "totalRegs": 47
+      },
+      {
+        "brand": "Smartico",
+        "house": "EstrelaBet",
+        "source": "BETO OLIVER",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1
+      },
+      {
+        "brand": "Smartico",
+        "house": "EstrelaBet",
+        "source": "Pedro Ivan #90",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 3
+      },
+      {
+        "brand": "Smartico",
+        "house": "EstrelaBet",
+        "source": "Fabio #119",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 3
+      },
+      {
+        "brand": "Smartico",
+        "house": "EstrelaBet",
+        "source": "Allan #138",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 2
+      },
+      {
+        "brand": "Smartico",
+        "house": "EstrelaBet",
+        "source": "LELE TIPS",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1
+      },
+      {
+        "brand": "Smartico",
+        "house": "EstrelaBet",
+        "source": "Luis Fernando #135",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1
+      },
+      {
+        "brand": "Smartico",
+        "house": "EstrelaBet",
+        "source": "Francielle #147",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Moises #79",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 2
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Moises #79 DNC",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 3
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Gabrieli #110",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 105,
+        "diffNgr": 0,
+        "totalRegs": 6
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "PPC AG",
+        "currency": "BRL",
+        "diffRegs": 5,
+        "diffFtds": 2,
+        "diffCpa": 0,
+        "diffDeposits": 1173,
+        "diffNgr": -81.39,
+        "totalRegs": 133
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Leonardo #118",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 4
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Rayca #133",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 181.52999877929688,
+        "diffNgr": 74.25,
+        "totalRegs": 190
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Allan #138",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 4
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Prscore #113",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 3.67,
+        "totalRegs": 15
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "BETO OLIVER",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 2.45,
+        "totalRegs": 2
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "lele tips",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 7
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Andre Luiz #155",
+        "currency": "BRL",
+        "diffRegs": 5,
+        "diffFtds": 5,
+        "diffCpa": 0,
+        "diffDeposits": 105,
+        "diffNgr": -8.73,
+        "totalRegs": 15
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Moises #79 Fight",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Joana #103",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 36
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Luis Fernando #135",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 9
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Jose #144",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 5
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Osvaldo #129",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 12
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Tiago Ramos #142",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 5
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Poshe #148",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 3
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Fut Varzea",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1
+      },
+      {
+        "brand": "Smartico",
+        "house": "Casa de Aposta",
+        "source": "FRED RING - APOSTA PRONTA",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 50,
+        "diffNgr": 61.12,
+        "totalRegs": 54
+      },
+      {
+        "brand": "Smartico",
+        "house": "Casa de Aposta",
+        "source": "SEO",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 56
+      },
+      {
+        "brand": "Smartico",
+        "house": "Casa de Aposta",
+        "source": "Geral",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 6
+      },
+      {
+        "brand": "Novibet",
+        "house": "Novibet Brazil",
+        "source": "nobrebet",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 11
+      },
+      {
+        "brand": "Novibet",
+        "house": "Novibet Brazil",
+        "source": "nobrebet49",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 2
+      },
+      {
+        "brand": "Novibet",
+        "house": "Novibet Brazil",
+        "source": "nobrebet62",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1
+      },
+      {
+        "brand": "Novibet",
+        "house": "Novibet Brazil",
+        "source": "nobrebet53",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1
+      },
+      {
+        "brand": "Novibet",
+        "house": "Novibet Brazil",
+        "source": "nobrebet46",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1
+      },
+      {
+        "brand": "Novibet",
+        "house": "Novibet Brazil",
+        "source": "nobrebet66",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 21
+      },
+      {
+        "brand": "Novibet",
+        "house": "Novibet Brazil",
+        "source": "nobrebet67",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1
+      },
+      {
+        "brand": "Blaze",
+        "house": "Blaze",
+        "source": "leonardo118",
+        "currency": "EUR",
+        "diffRegs": 1,
+        "diffFtds": 1,
+        "diffCpa": 0,
+        "diffDeposits": 4,
+        "diffNgr": 0,
+        "totalRegs": 5
+      },
+      {
+        "brand": "Blaze",
+        "house": "Blaze",
+        "source": "PPC",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 59
+      },
+      {
+        "brand": "Blaze",
+        "house": "Blaze",
+        "source": "jonathan102",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 10
+      },
+      {
+        "brand": "Blaze",
+        "house": "Blaze",
+        "source": "pedroivan90",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 10
+      },
+      {
+        "brand": "Blaze",
+        "house": "Blaze",
+        "source": "gabrieli110",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 1,
+        "diffCpa": 0,
+        "diffDeposits": 23,
+        "diffNgr": 30,
+        "totalRegs": 4
+      },
+      {
+        "brand": "Blaze",
+        "house": "Blaze",
+        "source": "marlon56",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 5
+      },
+      {
+        "brand": "Blaze",
+        "house": "Blaze",
+        "source": "robert84",
+        "currency": "EUR",
+        "diffRegs": 1,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 8
+      },
+      {
+        "brand": "BetMGM",
+        "house": "BetMGM",
+        "source": "PJ futebol",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 100,
+        "diffNgr": 0,
+        "totalRegs": 6
+      },
+      {
+        "brand": "BetMGM",
+        "house": "BetMGM",
+        "source": "FRED RING COMUNIDADE",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 3799,
+        "diffNgr": 20.91,
+        "totalRegs": 1
+      },
+      {
+        "brand": "BetMGM",
+        "house": "BetMGM",
+        "source": "Ana Ruiva #114",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 15299,
+        "diffNgr": -0.04,
+        "totalRegs": 1
+      },
+      {
+        "brand": "BetMGM",
+        "house": "BetMGM",
+        "source": "Arthur #46",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 10468,
+        "diffNgr": 167.6,
+        "totalRegs": 2
+      },
+      {
+        "brand": "BetMGM",
+        "house": "BetMGM",
+        "source": "Bruno #universo palmeirense #113",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 110,
+        "diffNgr": 0,
+        "totalRegs": 1
+      },
+      {
+        "brand": "BetMGM",
+        "house": "BetMGM",
+        "source": "FRED RING ALAVANCAGEM FREE",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 50,
+        "diffNgr": -1.18,
+        "totalRegs": 2
+      },
+      {
+        "brand": "BetMGM",
+        "house": "BetMGM",
+        "source": "FRED RING ATENDIMENTO",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 14329,
+        "diffNgr": -73.19,
+        "totalRegs": 1
+      },
+      {
+        "brand": "BetMGM",
+        "house": "BetMGM",
+        "source": "PPC AP",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 4987,
+        "diffNgr": 0,
+        "totalRegs": 30
+      },
+      {
+        "brand": "BetMGM",
+        "house": "BetMGM",
+        "source": "Yann #105",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 1587,
+        "diffNgr": -13.65,
+        "totalRegs": 2
+      },
+      {
+        "brand": "BetMGM",
+        "house": "BetMGM",
+        "source": "FRED RING ALAVANCAGEM  - GRUPO 1 A 5",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 20,
+        "diffNgr": 0,
+        "totalRegs": 2
+      },
+      {
+        "brand": "BetMGM",
+        "house": "BetMGM",
+        "source": "Gabrieli #110",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 225,
+        "diffNgr": 0,
+        "totalRegs": 1
+      },
+      {
+        "brand": "BetMGM",
+        "house": "BetMGM",
+        "source": "Luiz #135",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 60,
+        "diffNgr": 0,
+        "totalRegs": 2
+      },
+      {
+        "brand": "BetMGM",
+        "house": "BetMGM",
+        "source": "Nobrehub",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 66,
+        "diffNgr": 0,
+        "totalRegs": 6
+      },
+      {
+        "brand": "BetMGM",
+        "house": "BetMGM",
+        "source": "Osvaldo #129",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 150,
+        "diffNgr": 0,
+        "totalRegs": 17
+      },
+      {
+        "brand": "BetMGM",
+        "house": "BetMGM",
+        "source": "Rhonan #134",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 903,
+        "diffNgr": 0,
+        "totalRegs": 41
+      },
+      {
+        "brand": "BetMGM",
+        "house": "BetMGM",
+        "source": "Robert #84",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 200,
+        "diffNgr": 0,
+        "totalRegs": 2
+      },
+      {
+        "brand": "BetMGM",
+        "house": "BetMGM",
+        "source": "SEO nobrebet",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 15,
+        "diffNgr": 0,
+        "totalRegs": 3
+      },
+      {
+        "brand": "BetMGM",
+        "house": "BetMGM",
+        "source": "Teste-Betslip-AFF",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 2
+      },
+      {
+        "brand": "BetMGM",
+        "house": "BetMGM",
+        "source": "Iury #65",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 50,
+        "diffNgr": 0,
+        "totalRegs": 1
+      }
+    ]
+  },
+  "2026-03-29": {
+    "updatedAt": "2026-03-29T21:37:57.587Z",
+    "data": [
+      {
+        "brand": "OddsScanner",
+        "house": "Campeonbet - BR",
+        "source": "Pedro Ivan #90",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1,
+        "audit": {
+          "regs": {
+            "t": 1,
+            "y": 1
+          },
+          "ftds": {
+            "t": 0,
+            "y": 0
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 0,
+            "y": 0
+          },
+          "ngr": {
+            "t": 0,
+            "y": 0
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Campeonbet - BR",
+        "source": "Robert #84",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1,
+        "audit": {
+          "regs": {
+            "t": 1,
+            "y": 1
+          },
+          "ftds": {
+            "t": 0,
+            "y": 0
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 0,
+            "y": 0
+          },
+          "ngr": {
+            "t": 0,
+            "y": 0
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Campeonbet - BR",
+        "source": "Gabrieli #110",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1,
+        "audit": {
+          "regs": {
+            "t": 1,
+            "y": 1
+          },
+          "ftds": {
+            "t": 0,
+            "y": 0
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 0,
+            "y": 0
+          },
+          "ngr": {
+            "t": 0,
+            "y": 0
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Campeonbet - BR",
+        "source": "Jose #144",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1,
+        "audit": {
+          "regs": {
+            "t": 1,
+            "y": 1
+          },
+          "ftds": {
+            "t": 0,
+            "y": 0
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 0,
+            "y": 0
+          },
+          "ngr": {
+            "t": 0,
+            "y": 0
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "F12.bet - BR",
+        "source": "Gabrieli #110",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 5,
+        "audit": {
+          "regs": {
+            "t": 5,
+            "y": 5
+          },
+          "ftds": {
+            "t": 4,
+            "y": 4
+          },
+          "cpa": {
+            "t": 4,
+            "y": 4
+          },
+          "deps": {
+            "t": 101.08,
+            "y": 101.08
+          },
+          "ngr": {
+            "t": -100.05,
+            "y": -100.05
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "F12.bet - BR",
+        "source": "Leonardo #118",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 3,
+        "audit": {
+          "regs": {
+            "t": 3,
+            "y": 3
+          },
+          "ftds": {
+            "t": 1,
+            "y": 1
+          },
+          "cpa": {
+            "t": 1,
+            "y": 1
+          },
+          "deps": {
+            "t": 9.91,
+            "y": 9.91
+          },
+          "ngr": {
+            "t": 9.91,
+            "y": 9.91
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "F12.bet - BR",
+        "source": "Jonathan #102",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 5,
+        "audit": {
+          "regs": {
+            "t": 5,
+            "y": 5
+          },
+          "ftds": {
+            "t": 0,
+            "y": 0
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 0,
+            "y": 0
+          },
+          "ngr": {
+            "t": 0,
+            "y": 0
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Onabet - BR",
+        "source": "Luis FErnando #112",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 13,
+        "audit": {
+          "regs": {
+            "t": 13,
+            "y": 13
+          },
+          "ftds": {
+            "t": 13,
+            "y": 13
+          },
+          "cpa": {
+            "t": 13,
+            "y": 13
+          },
+          "deps": {
+            "t": 195.70000000000002,
+            "y": 195.70000000000002
+          },
+          "ngr": {
+            "t": -42.35999999999999,
+            "y": -42.35999999999999
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Onabet - BR",
+        "source": "Pedro Ivan #90",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 9,
+        "audit": {
+          "regs": {
+            "t": 9,
+            "y": 9
+          },
+          "ftds": {
+            "t": 8,
+            "y": 8
+          },
+          "cpa": {
+            "t": 8,
+            "y": 8
+          },
+          "deps": {
+            "t": 96.78999999999999,
+            "y": 96.78999999999999
+          },
+          "ngr": {
+            "t": 15.580000000000002,
+            "y": 15.580000000000002
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Onabet - BR",
+        "source": "Gabrieli #110",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 6,
+        "audit": {
+          "regs": {
+            "t": 6,
+            "y": 6
+          },
+          "ftds": {
+            "t": 5,
+            "y": 5
+          },
+          "cpa": {
+            "t": 5,
+            "y": 5
+          },
+          "deps": {
+            "t": 173.48,
+            "y": 173.48
+          },
+          "ngr": {
+            "t": -16.000000000000004,
+            "y": -16.000000000000004
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Onabet - BR",
+        "source": "Jonathan #102",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 12,
+        "audit": {
+          "regs": {
+            "t": 12,
+            "y": 12
+          },
+          "ftds": {
+            "t": 9,
+            "y": 9
+          },
+          "cpa": {
+            "t": 9,
+            "y": 9
+          },
+          "deps": {
+            "t": 94.15,
+            "y": 94.15
+          },
+          "ngr": {
+            "t": 59.239999999999995,
+            "y": 59.239999999999995
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Onabet - BR",
+        "source": "Robert #84",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 8,
+        "audit": {
+          "regs": {
+            "t": 8,
+            "y": 8
+          },
+          "ftds": {
+            "t": 5,
+            "y": 5
+          },
+          "cpa": {
+            "t": 4,
+            "y": 4
+          },
+          "deps": {
+            "t": 85.42999999999999,
+            "y": 85.42999999999999
+          },
+          "ngr": {
+            "t": -17.69,
+            "y": -17.69
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Onabet - BR",
+        "source": "Leonardo #118",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 4,
+        "audit": {
+          "regs": {
+            "t": 4,
+            "y": 4
+          },
+          "ftds": {
+            "t": 4,
+            "y": 4
+          },
+          "cpa": {
+            "t": 4,
+            "y": 4
+          },
+          "deps": {
+            "t": 39.47,
+            "y": 39.47
+          },
+          "ngr": {
+            "t": 20.55,
+            "y": 20.55
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Onabet - BR",
+        "source": "Marlon #56",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 3,
+        "audit": {
+          "regs": {
+            "t": 3,
+            "y": 3
+          },
+          "ftds": {
+            "t": 0,
+            "y": 0
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 0,
+            "y": 0
+          },
+          "ngr": {
+            "t": 0,
+            "y": 0
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Esportes Da Sorte - BR",
+        "source": "Jonathan #102",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 10,
+        "audit": {
+          "regs": {
+            "t": 10,
+            "y": 10
+          },
+          "ftds": {
+            "t": 8,
+            "y": 8
+          },
+          "cpa": {
+            "t": 8,
+            "y": 8
+          },
+          "deps": {
+            "t": 110.14000000000001,
+            "y": 110.14000000000001
+          },
+          "ngr": {
+            "t": -34.190000000000005,
+            "y": -34.190000000000005
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Esportes Da Sorte - BR",
+        "source": "Gabrieli #110",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 4,
+        "audit": {
+          "regs": {
+            "t": 4,
+            "y": 4
+          },
+          "ftds": {
+            "t": 3,
+            "y": 3
+          },
+          "cpa": {
+            "t": 3,
+            "y": 3
+          },
+          "deps": {
+            "t": 113.63,
+            "y": 113.63
+          },
+          "ngr": {
+            "t": -40.70000000000001,
+            "y": -40.70000000000001
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Esportes Da Sorte - BR",
+        "source": "Luis FErnando #112",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 12,
+        "audit": {
+          "regs": {
+            "t": 12,
+            "y": 12
+          },
+          "ftds": {
+            "t": 9,
+            "y": 9
+          },
+          "cpa": {
+            "t": 9,
+            "y": 9
+          },
+          "deps": {
+            "t": 129.82000000000002,
+            "y": 129.82000000000002
+          },
+          "ngr": {
+            "t": 2.9700000000000024,
+            "y": 2.9700000000000024
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Esportes Da Sorte - BR",
+        "source": "Pedro Ivan #90",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 8,
+        "audit": {
+          "regs": {
+            "t": 8,
+            "y": 8
+          },
+          "ftds": {
+            "t": 6,
+            "y": 6
+          },
+          "cpa": {
+            "t": 3,
+            "y": 3
+          },
+          "deps": {
+            "t": 57.74,
+            "y": 57.74
+          },
+          "ngr": {
+            "t": 24.540000000000003,
+            "y": 24.540000000000003
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Esportes Da Sorte - BR",
+        "source": "Robert #84",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 4,
+        "audit": {
+          "regs": {
+            "t": 4,
+            "y": 4
+          },
+          "ftds": {
+            "t": 3,
+            "y": 3
+          },
+          "cpa": {
+            "t": 3,
+            "y": 3
+          },
+          "deps": {
+            "t": 66.16,
+            "y": 66.16
+          },
+          "ngr": {
+            "t": 4.71,
+            "y": 4.71
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Esportes Da Sorte - BR",
+        "source": "Leonardo #118",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 3,
+        "audit": {
+          "regs": {
+            "t": 3,
+            "y": 3
+          },
+          "ftds": {
+            "t": 1,
+            "y": 1
+          },
+          "cpa": {
+            "t": 1,
+            "y": 1
+          },
+          "deps": {
+            "t": 9.91,
+            "y": 9.91
+          },
+          "ngr": {
+            "t": 6.44,
+            "y": 6.44
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "SportingBet - BR",
+        "source": "Desconhecido",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 21,
+        "audit": {
+          "regs": {
+            "t": 21,
+            "y": 21
+          },
+          "ftds": {
+            "t": 14,
+            "y": 14
+          },
+          "cpa": {
+            "t": 7,
+            "y": 7
+          },
+          "deps": {
+            "t": 0,
+            "y": 0
+          },
+          "ngr": {
+            "t": -1505.1399999999999,
+            "y": -1505.1399999999999
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "SportingBet - BR",
+        "source": "Fernanda #126",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 4,
+        "audit": {
+          "regs": {
+            "t": 4,
+            "y": 4
+          },
+          "ftds": {
+            "t": 3,
+            "y": 3
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 0,
+            "y": 0
+          },
+          "ngr": {
+            "t": -897.1700000000001,
+            "y": -897.1700000000001
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "SportingBet - BR",
+        "source": "Allan #138",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1,
+        "audit": {
+          "regs": {
+            "t": 1,
+            "y": 1
+          },
+          "ftds": {
+            "t": 1,
+            "y": 1
+          },
+          "cpa": {
+            "t": 1,
+            "y": 1
+          },
+          "deps": {
+            "t": 0,
+            "y": 0
+          },
+          "ngr": {
+            "t": -156.14000000000001,
+            "y": -156.14000000000001
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Betfair - BR",
+        "source": "Ana paula #114",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 53,
+        "audit": {
+          "regs": {
+            "t": 53,
+            "y": 53
+          },
+          "ftds": {
+            "t": 36,
+            "y": 36
+          },
+          "cpa": {
+            "t": 33,
+            "y": 33
+          },
+          "deps": {
+            "t": 2043.88,
+            "y": 2043.88
+          },
+          "ngr": {
+            "t": 103.62000000000002,
+            "y": 103.62000000000002
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Betfair - BR",
+        "source": "Gabrieli #110",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 5,
+        "audit": {
+          "regs": {
+            "t": 5,
+            "y": 5
+          },
+          "ftds": {
+            "t": 4,
+            "y": 4
+          },
+          "cpa": {
+            "t": 3,
+            "y": 3
+          },
+          "deps": {
+            "t": 116.6,
+            "y": 116.6
+          },
+          "ngr": {
+            "t": 70.03999999999999,
+            "y": 70.03999999999999
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Betfair - BR",
+        "source": "Kennedy #77",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 7,
+        "audit": {
+          "regs": {
+            "t": 7,
+            "y": 7
+          },
+          "ftds": {
+            "t": 3,
+            "y": 3
+          },
+          "cpa": {
+            "t": 2,
+            "y": 2
+          },
+          "deps": {
+            "t": 28.060000000000002,
+            "y": 28.060000000000002
+          },
+          "ngr": {
+            "t": -0.7300000000000004,
+            "y": -0.7300000000000004
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Betfair - BR",
+        "source": "Pedro Ivan #90",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 7,
+        "audit": {
+          "regs": {
+            "t": 7,
+            "y": 7
+          },
+          "ftds": {
+            "t": 2,
+            "y": 2
+          },
+          "cpa": {
+            "t": 2,
+            "y": 2
+          },
+          "deps": {
+            "t": 64.17000000000002,
+            "y": 64.17000000000002
+          },
+          "ngr": {
+            "t": 29.5,
+            "y": 29.5
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Betfair - BR",
+        "source": "Leonardo #118",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 2,
+        "audit": {
+          "regs": {
+            "t": 2,
+            "y": 2
+          },
+          "ftds": {
+            "t": 1,
+            "y": 1
+          },
+          "cpa": {
+            "t": 1,
+            "y": 1
+          },
+          "deps": {
+            "t": 11.55,
+            "y": 11.55
+          },
+          "ngr": {
+            "t": 7.78,
+            "y": 7.78
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Betfair - BR",
+        "source": "William #130",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 3,
+        "audit": {
+          "regs": {
+            "t": 3,
+            "y": 3
+          },
+          "ftds": {
+            "t": 0,
+            "y": 0
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 0,
+            "y": 0
+          },
+          "ngr": {
+            "t": 0,
+            "y": 0
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Betfair - BR",
+        "source": "WILLIAM #149",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 8,
+        "audit": {
+          "regs": {
+            "t": 8,
+            "y": 8
+          },
+          "ftds": {
+            "t": 2,
+            "y": 2
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 8.65,
+            "y": 8.65
+          },
+          "ngr": {
+            "t": 4.82,
+            "y": 4.82
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Betfair - BR",
+        "source": "Michael #123",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1,
+        "audit": {
+          "regs": {
+            "t": 1,
+            "y": 1
+          },
+          "ftds": {
+            "t": 0,
+            "y": 0
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 0,
+            "y": 0
+          },
+          "ngr": {
+            "t": 0,
+            "y": 0
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Betfair - BR",
+        "source": "Vandira #156",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1,
+        "audit": {
+          "regs": {
+            "t": 1,
+            "y": 1
+          },
+          "ftds": {
+            "t": 0,
+            "y": 0
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 0,
+            "y": 0
+          },
+          "ngr": {
+            "t": 0,
+            "y": 0
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Betfair - BR",
+        "source": "Fernanda #126",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1,
+        "audit": {
+          "regs": {
+            "t": 1,
+            "y": 1
+          },
+          "ftds": {
+            "t": 1,
+            "y": 1
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 7.48,
+            "y": 7.48
+          },
+          "ngr": {
+            "t": -12.610000000000001,
+            "y": -12.610000000000001
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Superbet - BR",
+        "source": "Fernanda #126",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 3,
+        "audit": {
+          "regs": {
+            "t": 3,
+            "y": 3
+          },
+          "ftds": {
+            "t": 2,
+            "y": 2
+          },
+          "cpa": {
+            "t": 2,
+            "y": 2
+          },
+          "deps": {
+            "t": 3787.68,
+            "y": 3787.68
+          },
+          "ngr": {
+            "t": 94.06999999999996,
+            "y": 94.06999999999996
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Superbet - BR",
+        "source": "Robert #84",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 4,
+        "audit": {
+          "regs": {
+            "t": 4,
+            "y": 4
+          },
+          "ftds": {
+            "t": 1,
+            "y": 1
+          },
+          "cpa": {
+            "t": 1,
+            "y": 1
+          },
+          "deps": {
+            "t": 16.39,
+            "y": 16.39
+          },
+          "ngr": {
+            "t": 1.6,
+            "y": 1.6
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Superbet - BR",
+        "source": "Erick #146",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 12,
+        "audit": {
+          "regs": {
+            "t": 12,
+            "y": 12
+          },
+          "ftds": {
+            "t": 5,
+            "y": 5
+          },
+          "cpa": {
+            "t": 2,
+            "y": 2
+          },
+          "deps": {
+            "t": 38.800000000000004,
+            "y": 38.800000000000004
+          },
+          "ngr": {
+            "t": -44.120000000000005,
+            "y": -44.120000000000005
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Superbet - BR",
+        "source": "Gabrieli #110",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1,
+        "audit": {
+          "regs": {
+            "t": 1,
+            "y": 1
+          },
+          "ftds": {
+            "t": 1,
+            "y": 1
+          },
+          "cpa": {
+            "t": 1,
+            "y": 1
+          },
+          "deps": {
+            "t": 36.4,
+            "y": 36.4
+          },
+          "ngr": {
+            "t": 26.78,
+            "y": 26.78
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Melbet DV - BR",
+        "source": "Luis FErnando #112",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1,
+        "audit": {
+          "regs": {
+            "t": 1,
+            "y": 1
+          },
+          "ftds": {
+            "t": 1,
+            "y": 1
+          },
+          "cpa": {
+            "t": 1,
+            "y": 1
+          },
+          "deps": {
+            "t": 13.32,
+            "y": 13.32
+          },
+          "ngr": {
+            "t": 13.22,
+            "y": 13.22
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Melbet DV - BR",
+        "source": "Pedro Ivan #90",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1,
+        "audit": {
+          "regs": {
+            "t": 1,
+            "y": 1
+          },
+          "ftds": {
+            "t": 0,
+            "y": 0
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 0,
+            "y": 0
+          },
+          "ngr": {
+            "t": 0,
+            "y": 0
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "BC.game - MX",
+        "source": "Jordan #67",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 17,
+        "audit": {
+          "regs": {
+            "t": 17,
+            "y": 17
+          },
+          "ftds": {
+            "t": 11,
+            "y": 11
+          },
+          "cpa": {
+            "t": 11,
+            "y": 11
+          },
+          "deps": {
+            "t": 139.7,
+            "y": 139.7
+          },
+          "ngr": {
+            "t": 11.98,
+            "y": 11.98
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Segurobet - BR",
+        "source": "Pedro Ivan #90",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 6,
+        "audit": {
+          "regs": {
+            "t": 6,
+            "y": 6
+          },
+          "ftds": {
+            "t": 2,
+            "y": 2
+          },
+          "cpa": {
+            "t": 3,
+            "y": 3
+          },
+          "deps": {
+            "t": 31.960000000000004,
+            "y": 31.960000000000004
+          },
+          "ngr": {
+            "t": 19.17,
+            "y": 19.17
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Segurobet - BR",
+        "source": "Gabrieli #110",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 3,
+        "audit": {
+          "regs": {
+            "t": 3,
+            "y": 3
+          },
+          "ftds": {
+            "t": 2,
+            "y": 2
+          },
+          "cpa": {
+            "t": 3,
+            "y": 3
+          },
+          "deps": {
+            "t": 89.04,
+            "y": 89.04
+          },
+          "ngr": {
+            "t": 53.45,
+            "y": 53.45
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Segurobet - BR",
+        "source": "Moises #79",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 9,
+        "audit": {
+          "regs": {
+            "t": 9,
+            "y": 9
+          },
+          "ftds": {
+            "t": 1,
+            "y": 1
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 11.63,
+            "y": 11.63
+          },
+          "ngr": {
+            "t": 0,
+            "y": 0
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Segurobet - BR",
+        "source": "Leonardo #118",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1,
+        "audit": {
+          "regs": {
+            "t": 1,
+            "y": 1
+          },
+          "ftds": {
+            "t": 1,
+            "y": 1
+          },
+          "cpa": {
+            "t": 1,
+            "y": 1
+          },
+          "deps": {
+            "t": 9.860000000000001,
+            "y": 9.860000000000001
+          },
+          "ngr": {
+            "t": 5.92,
+            "y": 5.92
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "LotoGreen - BR",
+        "source": "Marlon #56",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 13,
+        "audit": {
+          "regs": {
+            "t": 13,
+            "y": 13
+          },
+          "ftds": {
+            "t": 7,
+            "y": 7
+          },
+          "cpa": {
+            "t": 7,
+            "y": 7
+          },
+          "deps": {
+            "t": 4769.6,
+            "y": 4769.6
+          },
+          "ngr": {
+            "t": -371.2999999999999,
+            "y": -371.2999999999999
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "LotoGreen - BR",
+        "source": "Gabrieli #110",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 6,
+        "audit": {
+          "regs": {
+            "t": 6,
+            "y": 6
+          },
+          "ftds": {
+            "t": 5,
+            "y": 5
+          },
+          "cpa": {
+            "t": 5,
+            "y": 5
+          },
+          "deps": {
+            "t": 191.17,
+            "y": 191.17
+          },
+          "ngr": {
+            "t": 233.7,
+            "y": 233.7
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "LotoGreen - BR",
+        "source": "Jonathan #102",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 12,
+        "audit": {
+          "regs": {
+            "t": 12,
+            "y": 12
+          },
+          "ftds": {
+            "t": 9,
+            "y": 9
+          },
+          "cpa": {
+            "t": 9,
+            "y": 9
+          },
+          "deps": {
+            "t": 107.68,
+            "y": 107.68
+          },
+          "ngr": {
+            "t": 59.64000000000001,
+            "y": 59.64000000000001
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "LotoGreen - BR",
+        "source": "Leonardo #118",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 4,
+        "audit": {
+          "regs": {
+            "t": 4,
+            "y": 4
+          },
+          "ftds": {
+            "t": 4,
+            "y": 4
+          },
+          "cpa": {
+            "t": 4,
+            "y": 4
+          },
+          "deps": {
+            "t": 195.25,
+            "y": 195.25
+          },
+          "ngr": {
+            "t": -349.55,
+            "y": -349.55
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "LotoGreen - BR",
+        "source": "Luis FErnando #112",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 5,
+        "audit": {
+          "regs": {
+            "t": 5,
+            "y": 5
+          },
+          "ftds": {
+            "t": 6,
+            "y": 6
+          },
+          "cpa": {
+            "t": 6,
+            "y": 6
+          },
+          "deps": {
+            "t": 274.03000000000003,
+            "y": 274.03000000000003
+          },
+          "ngr": {
+            "t": 263.71000000000004,
+            "y": 263.71000000000004
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "LotoGreen - BR",
+        "source": "Pedro Ivan #90",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1,
+        "audit": {
+          "regs": {
+            "t": 1,
+            "y": 1
+          },
+          "ftds": {
+            "t": 0,
+            "y": 0
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 0,
+            "y": 0
+          },
+          "ngr": {
+            "t": 0,
+            "y": 0
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Vera Bet - BR",
+        "source": "Robert #84",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 4,
+        "audit": {
+          "regs": {
+            "t": 4,
+            "y": 4
+          },
+          "ftds": {
+            "t": 2,
+            "y": 2
+          },
+          "cpa": {
+            "t": 2,
+            "y": 2
+          },
+          "deps": {
+            "t": 49.42,
+            "y": 49.42
+          },
+          "ngr": {
+            "t": 16.39,
+            "y": 16.39
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Vera Bet - BR",
+        "source": "IREV ATT",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 2,
+        "audit": {
+          "regs": {
+            "t": 2,
+            "y": 2
+          },
+          "ftds": {
+            "t": 2,
+            "y": 2
+          },
+          "cpa": {
+            "t": 2,
+            "y": 2
+          },
+          "deps": {
+            "t": 19.79,
+            "y": 19.79
+          },
+          "ngr": {
+            "t": 13.79,
+            "y": 13.79
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Cassino - BR",
+        "source": "Robert #84",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 2,
+        "audit": {
+          "regs": {
+            "t": 2,
+            "y": 2
+          },
+          "ftds": {
+            "t": 1,
+            "y": 1
+          },
+          "cpa": {
+            "t": 1,
+            "y": 1
+          },
+          "deps": {
+            "t": 14.870000000000001,
+            "y": 14.870000000000001
+          },
+          "ngr": {
+            "t": -4.63,
+            "y": -4.63
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Cassino - BR",
+        "source": "IREV ATT",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 2,
+        "audit": {
+          "regs": {
+            "t": 2,
+            "y": 2
+          },
+          "ftds": {
+            "t": 2,
+            "y": 2
+          },
+          "cpa": {
+            "t": 2,
+            "y": 2
+          },
+          "deps": {
+            "t": 19.79,
+            "y": 19.79
+          },
+          "ngr": {
+            "t": 13.86,
+            "y": 13.86
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Cassino - BR",
+        "source": "Luis FErnando #112",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1,
+        "audit": {
+          "regs": {
+            "t": 1,
+            "y": 1
+          },
+          "ftds": {
+            "t": 0,
+            "y": 0
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 0,
+            "y": 0
+          },
+          "ngr": {
+            "t": 0,
+            "y": 0
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Bet7K - BR",
+        "source": "Robert #84",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 4,
+        "audit": {
+          "regs": {
+            "t": 4,
+            "y": 4
+          },
+          "ftds": {
+            "t": 2,
+            "y": 2
+          },
+          "cpa": {
+            "t": 2,
+            "y": 2
+          },
+          "deps": {
+            "t": 47.94,
+            "y": 47.94
+          },
+          "ngr": {
+            "t": -1.1999999999999997,
+            "y": -1.1999999999999997
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Bet7K - BR",
+        "source": "IREV ATT",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 2,
+        "audit": {
+          "regs": {
+            "t": 2,
+            "y": 2
+          },
+          "ftds": {
+            "t": 2,
+            "y": 2
+          },
+          "cpa": {
+            "t": 2,
+            "y": 2
+          },
+          "deps": {
+            "t": 19.79,
+            "y": 19.79
+          },
+          "ngr": {
+            "t": -5.740000000000001,
+            "y": -5.740000000000001
+          }
+        }
+      },
+      {
+        "brand": "OddsScanner",
+        "house": "Bet7K - BR",
+        "source": "Andre Luiz #155",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1,
+        "audit": {
+          "regs": {
+            "t": 1,
+            "y": 1
+          },
+          "ftds": {
+            "t": 1,
+            "y": 1
+          },
+          "cpa": {
+            "t": 1,
+            "y": 1
+          },
+          "deps": {
+            "t": 8.26,
+            "y": 8.26
+          },
+          "ngr": {
+            "t": 0,
+            "y": 0
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "EstrelaBet",
+        "source": "Robert #84",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 6,
+        "audit": {
+          "regs": {
+            "t": 6,
+            "y": 6
+          },
+          "ftds": {
+            "t": 1,
+            "y": 1
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 200,
+            "y": 200
+          },
+          "ngr": {
+            "t": 52.41419982910156,
+            "y": 52.41419982910156
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "EstrelaBet",
+        "source": "Gabrieli #110",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 4,
+        "audit": {
+          "regs": {
+            "t": 4,
+            "y": 4
+          },
+          "ftds": {
+            "t": 4,
+            "y": 4
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 2446,
+            "y": 2446
+          },
+          "ngr": {
+            "t": -6996.033996582031,
+            "y": -6996.033996582031
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "EstrelaBet",
+        "source": "PPC AG",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 20,
+        "diffNgr": 14.76,
+        "totalRegs": 16,
+        "audit": {
+          "regs": {
+            "t": 16,
+            "y": 16
+          },
+          "ftds": {
+            "t": 6,
+            "y": 6
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 1616.5600016117096,
+            "y": 1596.5600016117096
+          },
+          "ngr": {
+            "t": 921.1964223026298,
+            "y": 906.4334227680229
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "EstrelaBet",
+        "source": "Fabio #119",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 3,
+        "audit": {
+          "regs": {
+            "t": 3,
+            "y": 3
+          },
+          "ftds": {
+            "t": 2,
+            "y": 2
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 6000,
+            "y": 6000
+          },
+          "ngr": {
+            "t": 3739.996951162815,
+            "y": 3739.996951162815
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "EstrelaBet",
+        "source": "PPC DIRETO",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 145,
+        "diffNgr": -373.48,
+        "totalRegs": 1,
+        "audit": {
+          "regs": {
+            "t": 1,
+            "y": 1
+          },
+          "ftds": {
+            "t": 1,
+            "y": 1
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 2126,
+            "y": 1981
+          },
+          "ngr": {
+            "t": 358.085982311517,
+            "y": 731.5639791376889
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "EstrelaBet",
+        "source": "Rayca #133",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 47,
+        "audit": {
+          "regs": {
+            "t": 47,
+            "y": 47
+          },
+          "ftds": {
+            "t": 19,
+            "y": 19
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 2040.5,
+            "y": 2040.5
+          },
+          "ngr": {
+            "t": 19.276989698410034,
+            "y": 19.276989698410034
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "EstrelaBet",
+        "source": "BETO OLIVER",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1,
+        "audit": {
+          "regs": {
+            "t": 1,
+            "y": 1
+          },
+          "ftds": {
+            "t": 0,
+            "y": 0
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 0,
+            "y": 0
+          },
+          "ngr": {
+            "t": 0,
+            "y": 0
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "EstrelaBet",
+        "source": "Pedro Ivan #90",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 3,
+        "audit": {
+          "regs": {
+            "t": 3,
+            "y": 3
+          },
+          "ftds": {
+            "t": 2,
+            "y": 2
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 299,
+            "y": 299
+          },
+          "ngr": {
+            "t": -290.8421964645386,
+            "y": -290.8421964645386
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "EstrelaBet",
+        "source": "Allan #138",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 2,
+        "audit": {
+          "regs": {
+            "t": 2,
+            "y": 2
+          },
+          "ftds": {
+            "t": 1,
+            "y": 1
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 3791,
+            "y": 3791
+          },
+          "ngr": {
+            "t": -4125.574009716511,
+            "y": -4125.574009716511
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "EstrelaBet",
+        "source": "LELE TIPS",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1,
+        "audit": {
+          "regs": {
+            "t": 1,
+            "y": 1
+          },
+          "ftds": {
+            "t": 0,
+            "y": 0
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 0,
+            "y": 0
+          },
+          "ngr": {
+            "t": 0,
+            "y": 0
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "EstrelaBet",
+        "source": "Luis Fernando #135",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1,
+        "audit": {
+          "regs": {
+            "t": 1,
+            "y": 1
+          },
+          "ftds": {
+            "t": 1,
+            "y": 1
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 60,
+            "y": 60
+          },
+          "ngr": {
+            "t": 66.23000025749207,
+            "y": 66.23000025749207
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "EstrelaBet",
+        "source": "Francielle #147",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1,
+        "audit": {
+          "regs": {
+            "t": 1,
+            "y": 1
+          },
+          "ftds": {
+            "t": 0,
+            "y": 0
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 0,
+            "y": 0
+          },
+          "ngr": {
+            "t": 0,
+            "y": 0
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Moises #79",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 2,
+        "audit": {
+          "regs": {
+            "t": 2,
+            "y": 2
+          },
+          "ftds": {
+            "t": 1,
+            "y": 1
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 500,
+            "y": 500
+          },
+          "ngr": {
+            "t": 0,
+            "y": 0
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Moises #79 DNC",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 3,
+        "audit": {
+          "regs": {
+            "t": 3,
+            "y": 3
+          },
+          "ftds": {
+            "t": 3,
+            "y": 3
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 1510.9300003051758,
+            "y": 1510.9300003051758
+          },
+          "ngr": {
+            "t": -313.0511908903718,
+            "y": -313.0511908903718
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Gabrieli #110",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 6,
+        "audit": {
+          "regs": {
+            "t": 6,
+            "y": 6
+          },
+          "ftds": {
+            "t": 4,
+            "y": 4
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 965,
+            "y": 965
+          },
+          "ngr": {
+            "t": 508.1104009151459,
+            "y": 508.1104009151459
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "PPC AG",
+        "currency": "BRL",
+        "diffRegs": 1,
+        "diffFtds": 1,
+        "diffCpa": 0,
+        "diffDeposits": 2650,
+        "diffNgr": 1153,
+        "totalRegs": 137,
+        "audit": {
+          "regs": {
+            "t": 137,
+            "y": 136
+          },
+          "ftds": {
+            "t": 32,
+            "y": 31
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 59591.12000656128,
+            "y": 56941.12000656128
+          },
+          "ngr": {
+            "t": 5778.697486516088,
+            "y": 4625.693198796362
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Rayca #133",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 152,
+        "diffNgr": 55.07,
+        "totalRegs": 190,
+        "audit": {
+          "regs": {
+            "t": 190,
+            "y": 190
+          },
+          "ftds": {
+            "t": 117,
+            "y": 117
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 17173.529998779297,
+            "y": 17021.529998779297
+          },
+          "ngr": {
+            "t": 758.5788411684334,
+            "y": 703.5126413889229
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Prscore #113",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 15,
+        "audit": {
+          "regs": {
+            "t": 15,
+            "y": 15
+          },
+          "ftds": {
+            "t": 10,
+            "y": 10
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 241,
+            "y": 241
+          },
+          "ngr": {
+            "t": 33.731601156294346,
+            "y": 33.731601156294346
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "BETO OLIVER",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 2,
+        "audit": {
+          "regs": {
+            "t": 2,
+            "y": 2
+          },
+          "ftds": {
+            "t": 2,
+            "y": 2
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 530,
+            "y": 530
+          },
+          "ngr": {
+            "t": 1.7591000199317932,
+            "y": 1.7591000199317932
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "lele tips",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 7,
+        "audit": {
+          "regs": {
+            "t": 7,
+            "y": 7
+          },
+          "ftds": {
+            "t": 4,
+            "y": 4
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 230,
+            "y": 230
+          },
+          "ngr": {
+            "t": -121.7405014038086,
+            "y": -121.7405014038086
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Andre Luiz #155",
+        "currency": "BRL",
+        "diffRegs": 2,
+        "diffFtds": 1,
+        "diffCpa": 0,
+        "diffDeposits": 35,
+        "diffNgr": 23.52,
+        "totalRegs": 17,
+        "audit": {
+          "regs": {
+            "t": 17,
+            "y": 15
+          },
+          "ftds": {
+            "t": 14,
+            "y": 13
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 460,
+            "y": 425
+          },
+          "ngr": {
+            "t": 148.5484014749527,
+            "y": 125.02840149402618
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Leonardo #118",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 1,
+        "diffCpa": 0,
+        "diffDeposits": 30,
+        "diffNgr": 0,
+        "totalRegs": 4,
+        "audit": {
+          "regs": {
+            "t": 4,
+            "y": 4
+          },
+          "ftds": {
+            "t": 3,
+            "y": 2
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 1010,
+            "y": 980
+          },
+          "ngr": {
+            "t": -114.09159541130066,
+            "y": -114.09159541130066
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Allan #138",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 4,
+        "audit": {
+          "regs": {
+            "t": 4,
+            "y": 4
+          },
+          "ftds": {
+            "t": 1,
+            "y": 1
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 3267,
+            "y": 3267
+          },
+          "ngr": {
+            "t": -3358.0679199695587,
+            "y": -3358.0679199695587
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Moises #79 Fight",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1,
+        "audit": {
+          "regs": {
+            "t": 1,
+            "y": 1
+          },
+          "ftds": {
+            "t": 1,
+            "y": 1
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 37,
+            "y": 37
+          },
+          "ngr": {
+            "t": -74.96999597549438,
+            "y": -74.96999597549438
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Joana #103",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 36,
+        "audit": {
+          "regs": {
+            "t": 36,
+            "y": 36
+          },
+          "ftds": {
+            "t": 21,
+            "y": 21
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 2491.6699991226196,
+            "y": 2491.6699991226196
+          },
+          "ngr": {
+            "t": 715.4931061454117,
+            "y": 715.4931061454117
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Luis Fernando #135",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 7,
+        "diffNgr": 3.22,
+        "totalRegs": 9,
+        "audit": {
+          "regs": {
+            "t": 9,
+            "y": 9
+          },
+          "ftds": {
+            "t": 7,
+            "y": 7
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 304,
+            "y": 297
+          },
+          "ngr": {
+            "t": 117.7959988117218,
+            "y": 114.57179880142212
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Jose #144",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 5,
+        "audit": {
+          "regs": {
+            "t": 5,
+            "y": 5
+          },
+          "ftds": {
+            "t": 1,
+            "y": 1
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 114,
+            "y": 114
+          },
+          "ngr": {
+            "t": 40.65530014038086,
+            "y": 40.65530014038086
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Osvaldo #129",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 12,
+        "audit": {
+          "regs": {
+            "t": 12,
+            "y": 12
+          },
+          "ftds": {
+            "t": 7,
+            "y": 7
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 354,
+            "y": 354
+          },
+          "ngr": {
+            "t": 334.42499858140945,
+            "y": 334.42499858140945
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Tiago Ramos #142",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 5,
+        "audit": {
+          "regs": {
+            "t": 5,
+            "y": 5
+          },
+          "ftds": {
+            "t": 4,
+            "y": 4
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 45,
+            "y": 45
+          },
+          "ngr": {
+            "t": 21.471800327301025,
+            "y": 21.471800327301025
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Poshe #148",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 3,
+        "audit": {
+          "regs": {
+            "t": 3,
+            "y": 3
+          },
+          "ftds": {
+            "t": 3,
+            "y": 3
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 90,
+            "y": 90
+          },
+          "ngr": {
+            "t": 44.01669979095459,
+            "y": 44.01669979095459
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "MultiBet",
+        "source": "Fut Varzea",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1,
+        "audit": {
+          "regs": {
+            "t": 1,
+            "y": 1
+          },
+          "ftds": {
+            "t": 1,
+            "y": 1
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 150,
+            "y": 150
+          },
+          "ngr": {
+            "t": 73.41670227050781,
+            "y": 73.41670227050781
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "Casa de Aposta",
+        "source": "Geral",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 6,
+        "audit": {
+          "regs": {
+            "t": 6,
+            "y": 6
+          },
+          "ftds": {
+            "t": 1,
+            "y": 1
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 79.9399995803833,
+            "y": 79.9399995803833
+          },
+          "ngr": {
+            "t": -35.538074638694525,
+            "y": -35.538074638694525
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "Casa de Aposta",
+        "source": "FRED RING - APOSTA PRONTA",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 206,
+        "diffNgr": 11.93,
+        "totalRegs": 54,
+        "audit": {
+          "regs": {
+            "t": 54,
+            "y": 54
+          },
+          "ftds": {
+            "t": 24,
+            "y": 24
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 15855.169993638992,
+            "y": 15649.169993638992
+          },
+          "ngr": {
+            "t": 4688.444909127429,
+            "y": 4676.511359365657
+          }
+        }
+      },
+      {
+        "brand": "Smartico",
+        "house": "Casa de Aposta",
+        "source": "SEO",
+        "currency": "BRL",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 57,
+        "audit": {
+          "regs": {
+            "t": 57,
+            "y": 57
+          },
+          "ftds": {
+            "t": 7,
+            "y": 7
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 12182,
+            "y": 12182
+          },
+          "ngr": {
+            "t": 4813.086122751236,
+            "y": 4813.086122751236
+          }
+        }
+      },
+      {
+        "brand": "Novibet",
+        "house": "Novibet Brazil",
+        "source": "nobrebet",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 11,
+        "audit": {
+          "regs": {
+            "t": 11,
+            "y": 11
+          },
+          "ftds": {
+            "t": 5,
+            "y": 5
+          },
+          "cpa": {
+            "t": 7,
+            "y": 7
+          },
+          "deps": {
+            "t": 24502.570000000003,
+            "y": 24502.570000000003
+          },
+          "ngr": {
+            "t": 2060.870000000001,
+            "y": 2060.870000000001
+          }
+        }
+      },
+      {
+        "brand": "Novibet",
+        "house": "Novibet Brazil",
+        "source": "nobrebet49",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 2,
+        "audit": {
+          "regs": {
+            "t": 2,
+            "y": 2
+          },
+          "ftds": {
+            "t": 3,
+            "y": 3
+          },
+          "cpa": {
+            "t": 1,
+            "y": 1
+          },
+          "deps": {
+            "t": 3607.11,
+            "y": 3607.11
+          },
+          "ngr": {
+            "t": 862.96,
+            "y": 862.96
+          }
+        }
+      },
+      {
+        "brand": "Novibet",
+        "house": "Novibet Brazil",
+        "source": "nobrebet62",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1,
+        "audit": {
+          "regs": {
+            "t": 1,
+            "y": 1
+          },
+          "ftds": {
+            "t": 0,
+            "y": 0
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 0,
+            "y": 0
+          },
+          "ngr": {
+            "t": 0,
+            "y": 0
+          }
+        }
+      },
+      {
+        "brand": "Novibet",
+        "house": "Novibet Brazil",
+        "source": "nobrebet53",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1,
+        "audit": {
+          "regs": {
+            "t": 1,
+            "y": 1
+          },
+          "ftds": {
+            "t": 1,
+            "y": 1
+          },
+          "cpa": {
+            "t": 1,
+            "y": 1
+          },
+          "deps": {
+            "t": 21.31,
+            "y": 21.31
+          },
+          "ngr": {
+            "t": 15.94,
+            "y": 15.94
+          }
+        }
+      },
+      {
+        "brand": "Novibet",
+        "house": "Novibet Brazil",
+        "source": "nobrebet46",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1,
+        "audit": {
+          "regs": {
+            "t": 1,
+            "y": 1
+          },
+          "ftds": {
+            "t": 1,
+            "y": 1
+          },
+          "cpa": {
+            "t": 1,
+            "y": 1
+          },
+          "deps": {
+            "t": 929.14,
+            "y": 929.14
+          },
+          "ngr": {
+            "t": -809.25,
+            "y": -809.25
+          }
+        }
+      },
+      {
+        "brand": "Novibet",
+        "house": "Novibet Brazil",
+        "source": "nobrebet66",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 21,
+        "audit": {
+          "regs": {
+            "t": 21,
+            "y": 21
+          },
+          "ftds": {
+            "t": 6,
+            "y": 6
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 40.93,
+            "y": 40.93
+          },
+          "ngr": {
+            "t": 12.8,
+            "y": 12.8
+          }
+        }
+      },
+      {
+        "brand": "Novibet",
+        "house": "Novibet Brazil",
+        "source": "nobrebet67",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 1,
+        "audit": {
+          "regs": {
+            "t": 1,
+            "y": 1
+          },
+          "ftds": {
+            "t": 0,
+            "y": 0
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 0,
+            "y": 0
+          },
+          "ngr": {
+            "t": 0,
+            "y": 0
+          }
+        }
+      },
+      {
+        "brand": "Blaze",
+        "house": "Blaze",
+        "source": "leonardo118",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 1,
+        "diffCpa": 0,
+        "diffDeposits": 4,
+        "diffNgr": 0,
+        "totalRegs": 5,
+        "audit": {
+          "regs": {
+            "t": 5,
+            "y": 5
+          },
+          "ftds": {
+            "t": 4,
+            "y": 3
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 28,
+            "y": 24
+          },
+          "ngr": {
+            "t": 55.6627,
+            "y": 55.6627
+          }
+        }
+      },
+      {
+        "brand": "Blaze",
+        "house": "Blaze",
+        "source": "PPC",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 59,
+        "audit": {
+          "regs": {
+            "t": 59,
+            "y": 59
+          },
+          "ftds": {
+            "t": 4,
+            "y": 4
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 1052,
+            "y": 1052
+          },
+          "ngr": {
+            "t": 155.74279999999996,
+            "y": 155.74279999999996
+          }
+        }
+      },
+      {
+        "brand": "Blaze",
+        "house": "Blaze",
+        "source": "jonathan102",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 10,
+        "audit": {
+          "regs": {
+            "t": 10,
+            "y": 10
+          },
+          "ftds": {
+            "t": 9,
+            "y": 9
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 83,
+            "y": 83
+          },
+          "ngr": {
+            "t": 259.4621,
+            "y": 259.4621
+          }
+        }
+      },
+      {
+        "brand": "Blaze",
+        "house": "Blaze",
+        "source": "pedroivan90",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 10,
+        "audit": {
+          "regs": {
+            "t": 10,
+            "y": 10
+          },
+          "ftds": {
+            "t": 9,
+            "y": 9
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 105,
+            "y": 105
+          },
+          "ngr": {
+            "t": 288.26599999999996,
+            "y": 288.26599999999996
+          }
+        }
+      },
+      {
+        "brand": "Blaze",
+        "house": "Blaze",
+        "source": "gabrieli110",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 4,
+        "audit": {
+          "regs": {
+            "t": 4,
+            "y": 4
+          },
+          "ftds": {
+            "t": 3,
+            "y": 3
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 98,
+            "y": 98
+          },
+          "ngr": {
+            "t": 104.5341,
+            "y": 104.5341
+          }
+        }
+      },
+      {
+        "brand": "Blaze",
+        "house": "Blaze",
+        "source": "marlon56",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 5,
+        "audit": {
+          "regs": {
+            "t": 5,
+            "y": 5
+          },
+          "ftds": {
+            "t": 2,
+            "y": 2
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 862,
+            "y": 862
+          },
+          "ngr": {
+            "t": -27.713,
+            "y": -27.713
+          }
+        }
+      },
+      {
+        "brand": "Blaze",
+        "house": "Blaze",
+        "source": "robert84",
+        "currency": "EUR",
+        "diffRegs": 0,
+        "diffFtds": 0,
+        "diffCpa": 0,
+        "diffDeposits": 0,
+        "diffNgr": 0,
+        "totalRegs": 8,
+        "audit": {
+          "regs": {
+            "t": 8,
+            "y": 8
+          },
+          "ftds": {
+            "t": 7,
+            "y": 7
+          },
+          "cpa": {
+            "t": 0,
+            "y": 0
+          },
+          "deps": {
+            "t": 109,
+            "y": 109
+          },
+          "ngr": {
+            "t": 89.4267,
+            "y": 89.4267
+          }
+        }
+      }
+    ]
+  }
+}

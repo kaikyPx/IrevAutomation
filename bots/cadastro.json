@@ -1,0 +1,2230 @@
+{
+  "4": {
+    "nome": "Monise",
+    "sub_cadastros": [
+      {
+        "nome_casa": "royal",
+        "id_oferta": "1",
+        "id_link_oferta": "1"
+      },
+      {
+        "nome_casa": "Betsson MX",
+        "id_oferta": "164",
+        "id_link_oferta": "1190"
+      }
+    ]
+  },
+  "67": {
+    "nome": "Jordan",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Betsson MX",
+        "id_oferta": "164",
+        "id_link_oferta": "1190"
+      },
+      {
+        "nome_casa": "Bc.Games",
+        "id_oferta": "221",
+        "id_link_oferta": "3826"
+      },
+      {
+        "nome_casa": "Melbet",
+        "id_oferta": "177",
+        "id_link_oferta": "4486"
+      }
+    ]
+  },
+  "44": {
+    "nome": "Pantera",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Fresh",
+        "id_oferta": "136",
+        "id_link_oferta": "971"
+      }
+    ]
+  },
+  "103": {
+    "nome": "Joana",
+    "sub_cadastros": [
+      {
+        "nome_casa": "BETMGM",
+        "id_oferta": "173",
+        "id_link_oferta": "1322"
+      },
+      {
+        "nome_casa": "EstrelaBet",
+        "id_oferta": "180",
+        "id_link_oferta": "3996"
+      },
+      {
+        "nome_casa": "Multibet",
+        "id_oferta": "216",
+        "id_link_oferta": "3995"
+      }
+    ]
+  },
+  "55": {
+    "nome": "William",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Lottoland",
+        "id_oferta": "185",
+        "id_link_oferta": "1329"
+      },
+      {
+        "nome_casa": "SportingBet",
+        "id_oferta": "170",
+        "id_link_oferta": "1328"
+      },
+      {
+        "nome_casa": "BetMGM",
+        "id_oferta": "173",
+        "id_link_oferta": "1418"
+      },
+      {
+        "nome_casa": "Melbet",
+        "id_oferta": "177",
+        "id_link_oferta": "1481"
+      },
+      {
+        "nome_casa": "SorteOnline",
+        "id_oferta": "184",
+        "id_link_oferta": "2388"
+      }
+    ]
+  },
+  "79": {
+    "nome": "Moises",
+    "sub_cadastros": [
+      {
+        "nome_casa": "SeguroBet",
+        "id_oferta": "181",
+        "id_link_oferta": "1316"
+      },
+      {
+        "nome_casa": "EstrelaBet",
+        "id_oferta": "180",
+        "id_link_oferta": "1315"
+      },
+      {
+        "nome_casa": "Esporte da Sorte",
+        "id_oferta": "179",
+        "id_link_oferta": "1314"
+      },
+      {
+        "nome_casa": "Sportingbet",
+        "id_oferta": "170",
+        "id_link_oferta": "1317"
+      },
+      {
+        "nome_casa": "Stake",
+        "id_oferta": "178",
+        "id_link_oferta": "1380"
+      },
+      {
+        "nome_casa": "Sportingbet Telegram",
+        "id_oferta": "170",
+        "id_link_oferta": "1353"
+      },
+      {
+        "nome_casa": "Sportingbet Twitter",
+        "id_oferta": "170",
+        "id_link_oferta": "1354"
+      },
+      {
+        "nome_casa": "Sportingbet Fligth",
+        "id_oferta": "170",
+        "id_link_oferta": "1355"
+      },
+      {
+        "nome_casa": "Esporte da Sorte twitter",
+        "id_oferta": "179",
+        "id_link_oferta": "1350"
+      },
+      {
+        "nome_casa": "Esporte da Sorte Telegram",
+        "id_oferta": "179",
+        "id_link_oferta": "1351"
+      },
+      {
+        "nome_casa": "Esporte da Sorte Fligth",
+        "id_oferta": "179",
+        "id_link_oferta": "1352"
+      },
+      {
+        "nome_casa": "Multibet",
+        "id_oferta": "216",
+        "id_link_oferta": "1486"
+      },
+      {
+        "nome_casa": "Multibet DNC",
+        "id_oferta": "216",
+        "id_link_oferta": "1487"
+      },
+      {
+        "nome_casa": "Multibet Fight",
+        "id_oferta": "216",
+        "id_link_oferta": "1488"
+      },
+      {
+        "nome_casa": "Segurobet Figthtips",
+        "id_oferta": "181",
+        "id_link_oferta": "1587"
+      },
+      {
+        "nome_casa": "Stake BR",
+        "id_oferta": "218",
+        "id_link_oferta": "2802"
+      }
+    ]
+  },
+  "102": {
+    "nome": "Jonathan",
+    "sub_cadastros": [
+      {
+        "nome_casa": "EstrelaBet",
+        "id_oferta": "180",
+        "id_link_oferta": "20252"
+      },
+      {
+        "nome_casa": "Esporte da Sorte",
+        "id_oferta": "179",
+        "id_link_oferta": "1359"
+      },
+      {
+        "nome_casa": "Sportingbet",
+        "id_oferta": "170",
+        "id_link_oferta": "1361"
+      },
+      {
+        "nome_casa": "F12Bet",
+        "id_oferta": "183",
+        "id_link_oferta": "1440"
+      },
+      {
+        "nome_casa": "Onabet",
+        "id_oferta": "175",
+        "id_link_oferta": "1439"
+      },
+      {
+        "nome_casa": "Superbet",
+        "id_oferta": "176",
+        "id_link_oferta": "1447"
+      },
+      {
+        "nome_casa": "Multibet",
+        "id_oferta": "216",
+        "id_link_oferta": "1676"
+      },
+      {
+        "nome_casa": "SorteOnline",
+        "id_oferta": "184",
+        "id_link_oferta": "1677"
+      },
+      {
+        "nome_casa": "Stake BR",
+        "id_oferta": "218",
+        "id_link_oferta": "1678"
+      },
+      {
+        "nome_casa": "LotoGreen",
+        "id_oferta": "217",
+        "id_link_oferta": "3829"
+      },
+      {
+        "nome_casa": "Br4Bet",
+        "id_oferta": "232",
+        "id_link_oferta": "4058"
+      },
+      {
+        "nome_casa": "Melbet",
+        "id_oferta": "177",
+        "id_link_oferta": "4489"
+      },
+      {
+        "nome_casa": "Blaze",
+        "id_oferta": "215",
+        "id_link_oferta": "4490"
+      }
+    ]
+  },
+  "77": {
+    "nome": "Kennedy",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Lottoland",
+        "id_oferta": "185",
+        "id_link_oferta": "1343"
+      },
+      {
+        "nome_casa": "SorteOnline",
+        "id_oferta": "184",
+        "id_link_oferta": "1342"
+      },
+      {
+        "nome_casa": "Esporte da Sorte",
+        "id_oferta": "179",
+        "id_link_oferta": "2387"
+      },
+      {
+        "nome_casa": "Melbet",
+        "id_oferta": "177",
+        "id_link_oferta": "1362"
+      },
+      {
+        "nome_casa": "SuperBet",
+        "id_oferta": "176",
+        "id_link_oferta": "1363"
+      },
+      {
+        "nome_casa": "Sportingbet",
+        "id_oferta": "170",
+        "id_link_oferta": "1364"
+      },
+      {
+        "nome_casa": "Betnacional",
+        "id_oferta": "169",
+        "id_link_oferta": "1389"
+      },
+      {
+        "nome_casa": "BetFair",
+        "id_oferta": "233",
+        "id_link_oferta": "4342"
+      },
+      {
+        "nome_casa": "Multibet",
+        "id_oferta": "216",
+        "id_link_oferta": "4343"
+      }
+    ]
+  },
+  "84": {
+    "nome": "Robert",
+    "sub_cadastros": [
+      {
+        "nome_casa": "LEX",
+        "id_oferta": "207",
+        "id_link_oferta": "1390"
+      },
+      {
+        "nome_casa": "BetWinner",
+        "id_oferta": "186",
+        "id_link_oferta": "1394"
+      },
+      {
+        "nome_casa": "Lottoland",
+        "id_oferta": "185",
+        "id_link_oferta": "1395"
+      },
+      {
+        "nome_casa": "SorteOnline",
+        "id_oferta": "184",
+        "id_link_oferta": "1396"
+      },
+      {
+        "nome_casa": "EstrelaBet",
+        "id_oferta": "180",
+        "id_link_oferta": "1393"
+      },
+      {
+        "nome_casa": "Melbet",
+        "id_oferta": "177",
+        "id_link_oferta": "1392"
+      },
+      {
+        "nome_casa": "Onabet",
+        "id_oferta": "175",
+        "id_link_oferta": "1391"
+      },
+      {
+        "nome_casa": "Apostar",
+        "id_oferta": "172",
+        "id_link_oferta": "1388"
+      },
+      {
+        "nome_casa": "Sportingbet",
+        "id_oferta": "170",
+        "id_link_oferta": "1394"
+      },
+      {
+        "nome_casa": "BetMGM",
+        "id_oferta": "173",
+        "id_link_oferta": "1459"
+      },
+      {
+        "nome_casa": "Multibet",
+        "id_oferta": "216",
+        "id_link_oferta": "1484"
+      },
+      {
+        "nome_casa": "Esporte da Sorte",
+        "id_oferta": "179",
+        "id_link_oferta": "1885"
+      },
+      {
+        "nome_casa": "Superbet",
+        "id_oferta": "176",
+        "id_link_oferta": "1886"
+      },
+      {
+        "nome_casa": "CampeonBet",
+        "id_oferta": "220",
+        "id_link_oferta": "4013"
+      },
+      {
+        "nome_casa": "Stake",
+        "id_oferta": "218",
+        "id_link_oferta": "4015"
+      },
+      {
+        "nome_casa": "Betfair",
+        "id_oferta": "233",
+        "id_link_oferta": "4018"
+      },
+      {
+        "nome_casa": "Br4Bet",
+        "id_oferta": "232",
+        "id_link_oferta": "4019"
+      }
+    ]
+  },
+  "94": {
+    "nome": "Mizael",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Gizbo",
+        "id_oferta": "208",
+        "id_link_oferta": "1382"
+      },
+      {
+        "nome_casa": "Lex",
+        "id_oferta": "207",
+        "id_link_oferta": "1383"
+      },
+      {
+        "nome_casa": "Betwinner",
+        "id_oferta": "186",
+        "id_link_oferta": "1323"
+      },
+      {
+        "nome_casa": "Lottoland",
+        "id_oferta": "185",
+        "id_link_oferta": "1325"
+      },
+      {
+        "nome_casa": "Melbet",
+        "id_oferta": "177",
+        "id_link_oferta": "177"
+      },
+      {
+        "nome_casa": "Sportingbet",
+        "id_oferta": "170",
+        "id_link_oferta": "1327"
+      },
+      {
+        "nome_casa": "Betnacional",
+        "id_oferta": "169",
+        "id_link_oferta": "1324"
+      },
+      {
+        "nome_casa": "BetMGM",
+        "id_oferta": "173",
+        "id_link_oferta": "1460"
+      },
+      {
+        "nome_casa": "MegaPari",
+        "id_oferta": "214",
+        "id_link_oferta": "1508"
+      },
+      {
+        "nome_casa": "CampeonBet",
+        "id_oferta": "220",
+        "id_link_oferta": "2105"
+      },
+      {
+        "nome_casa": "Multibet",
+        "id_oferta": "216",
+        "id_link_oferta": "3830"
+      },
+      {
+        "nome_casa": "BetFair",
+        "id_oferta": "233",
+        "id_link_oferta": "4025"
+      },
+      {
+        "nome_casa": "Br4Bet",
+        "id_oferta": "232",
+        "id_link_oferta": "4057"
+      },
+      {
+        "nome_casa": "F12Bet",
+        "id_oferta": "183",
+        "id_link_oferta": "4491"
+      },
+      {
+        "nome_casa": "LotoGreen",
+        "id_oferta": "217",
+        "id_link_oferta": "4492"
+      },
+      {
+        "nome_casa": "Blaze",
+        "id_oferta": "215",
+        "id_link_oferta": "4493"
+      },
+      {
+        "nome_casa": "SeguroBet",
+        "id_oferta": "181",
+        "id_link_oferta": "4494"
+      },
+      {
+        "nome_casa": "Estrelabet",
+        "id_oferta": "180",
+        "id_link_oferta": "4495"
+      },
+      {
+        "nome_casa": "Esporte da Sorte",
+        "id_oferta": "179",
+        "id_link_oferta": "4496"
+      },
+      {
+        "nome_casa": "Apostar",
+        "id_oferta": "172",
+        "id_link_oferta": "4497"
+      }
+    ]
+  },
+  "101": {
+    "nome": "Maxsuel",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Sportingbet",
+        "id_oferta": "170",
+        "id_link_oferta": "1379"
+      },
+      {
+        "nome_casa": "Betwinner",
+        "id_oferta": "186",
+        "id_link_oferta": "1378"
+      }
+    ]
+  },
+  "71": {
+    "nome": "Eliezer",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Betwinner",
+        "id_oferta": "186",
+        "id_link_oferta": "1341"
+      },
+      {
+        "nome_casa": "Lottoland",
+        "id_oferta": "185",
+        "id_link_oferta": "1340"
+      },
+      {
+        "nome_casa": "SorteOnline",
+        "id_oferta": "184",
+        "id_link_oferta": "1339"
+      },
+      {
+        "nome_casa": "F12Bet",
+        "id_oferta": "183",
+        "id_link_oferta": "1338"
+      },
+      {
+        "nome_casa": "SeguroBet",
+        "id_oferta": "181",
+        "id_link_oferta": "1337"
+      },
+      {
+        "nome_casa": "Estrelabet",
+        "id_oferta": "180",
+        "id_link_oferta": "1336"
+      },
+      {
+        "nome_casa": "Esporte da Sorte",
+        "id_oferta": "179",
+        "id_link_oferta": "1335"
+      },
+      {
+        "nome_casa": "Stake",
+        "id_oferta": "178",
+        "id_link_oferta": "1334"
+      },
+      {
+        "nome_casa": "Melbet",
+        "id_oferta": "177",
+        "id_link_oferta": "1333"
+      },
+      {
+        "nome_casa": "Superbet",
+        "id_oferta": "176",
+        "id_link_oferta": "1332"
+      },
+      {
+        "nome_casa": "Onabet",
+        "id_oferta": "175",
+        "id_link_oferta": "1331"
+      },
+      {
+        "nome_casa": "Betnacional",
+        "id_oferta": "169",
+        "id_link_oferta": "1330"
+      },
+      {
+        "nome_casa": "Apostar",
+        "id_oferta": "172",
+        "id_link_oferta": "1516"
+      },
+      {
+        "nome_casa": "Blaze",
+        "id_oferta": "215",
+        "id_link_oferta": "1588"
+      },
+      {
+        "nome_casa": "Novibet",
+        "id_oferta": "187",
+        "id_link_oferta": "1589"
+      },
+      {
+        "nome_casa": "LotoGreen",
+        "id_oferta": "217",
+        "id_link_oferta": ""
+      },
+      {
+        "nome_casa": "Sportingbet",
+        "id_oferta": "170",
+        "id_link_oferta": ""
+      }
+    ]
+  },
+  "65": {
+    "nome": "Iury",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Apsotar",
+        "id_oferta": "172",
+        "id_link_oferta": "1358"
+      },
+      {
+        "nome_casa": "BetMGM",
+        "id_oferta": "173",
+        "id_link_oferta": "1357"
+      },
+      {
+        "nome_casa": "Onabet",
+        "id_oferta": "175",
+        "id_link_oferta": "1346"
+      },
+      {
+        "nome_casa": "Melbet",
+        "id_oferta": "177",
+        "id_link_oferta": "1345"
+      },
+      {
+        "nome_casa": "Esporte da Sorte",
+        "id_oferta": "179",
+        "id_link_oferta": "1347"
+      },
+      {
+        "nome_casa": "Sorte Online",
+        "id_oferta": "184",
+        "id_link_oferta": "1349"
+      },
+      {
+        "nome_casa": "Lottoland",
+        "id_oferta": "185",
+        "id_link_oferta": "1348"
+      },
+      {
+        "nome_casa": "Betwinner",
+        "id_oferta": "186",
+        "id_link_oferta": "1344"
+      },
+      {
+        "nome_casa": "Novibet",
+        "id_oferta": "187",
+        "id_link_oferta": "1356"
+      },
+      {
+        "nome_casa": "Lex",
+        "id_oferta": "207",
+        "id_link_oferta": "1385"
+      },
+      {
+        "nome_casa": "Gizbo",
+        "id_oferta": "208",
+        "id_link_oferta": "1384"
+      },
+      {
+        "nome_casa": "Multibet",
+        "id_oferta": "216",
+        "id_link_oferta": "1485"
+      },
+      {
+        "nome_casa": "MEgapari",
+        "id_oferta": "214",
+        "id_link_oferta": "1489"
+      },
+      {
+        "nome_casa": "CampeonBet",
+        "id_oferta": "220",
+        "id_link_oferta": "2104"
+      },
+      {
+        "nome_casa": "Bc.Game MX",
+        "id_oferta": "221",
+        "id_link_oferta": "2107"
+      },
+      {
+        "nome_casa": "Lotogreen",
+        "id_oferta": "217",
+        "id_link_oferta": "3144"
+      },
+      {
+        "nome_casa": "Br4BET",
+        "id_oferta": "232",
+        "id_link_oferta": "4406"
+      }
+    ]
+  },
+  "57": {
+    "nome": "Edson",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Betnacional",
+        "id_oferta": "169",
+        "id_link_oferta": "1381"
+      },
+      {
+        "nome_casa": "BetMGM",
+        "id_oferta": "173",
+        "id_link_oferta": "1461"
+      },
+      {
+        "nome_casa": "Estrelabet",
+        "id_oferta": "180",
+        "id_link_oferta": "2102"
+      },
+      {
+        "nome_casa": "Stake BR",
+        "id_oferta": "218",
+        "id_link_oferta": "3827"
+      },
+      {
+        "nome_casa": "BetFair",
+        "id_oferta": "233",
+        "id_link_oferta": "4059"
+      },
+      {
+        "nome_casa": "Esporte da Sorte",
+        "id_oferta": "179",
+        "id_link_oferta": "4518"
+      }
+    ]
+  },
+  "90": {
+    "nome": "Pedro Ivan",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Lex",
+        "id_oferta": "207",
+        "id_link_oferta": "20094"
+      },
+      {
+        "nome_casa": "Gizbo",
+        "id_oferta": "208",
+        "id_link_oferta": "1386"
+      },
+      {
+        "nome_casa": "Blaze",
+        "id_oferta": "215",
+        "id_link_oferta": "1479"
+      },
+      {
+        "nome_casa": "Apostar",
+        "id_oferta": "172",
+        "id_link_oferta": "1365"
+      },
+      {
+        "nome_casa": "BetMgm",
+        "id_oferta": "173",
+        "id_link_oferta": "1798"
+      },
+      {
+        "nome_casa": "EstrelaBet",
+        "id_oferta": "180",
+        "id_link_oferta": "1882"
+      },
+      {
+        "nome_casa": "BetBoom",
+        "id_oferta": "219",
+        "id_link_oferta": "1985"
+      },
+      {
+        "nome_casa": "Lotogreen",
+        "id_oferta": "217",
+        "id_link_oferta": "3151"
+      },
+      {
+        "nome_casa": "Esporte da Sorte",
+        "id_oferta": "179",
+        "id_link_oferta": "3152"
+      },
+      {
+        "nome_casa": "Melbet",
+        "id_oferta": "177",
+        "id_link_oferta": "3153"
+      },
+      {
+        "nome_casa": "Onabet",
+        "id_oferta": "175",
+        "id_link_oferta": "3154"
+      },
+      {
+        "nome_casa": "CampeonBet",
+        "id_oferta": "220",
+        "id_link_oferta": "4014"
+      },
+      {
+        "nome_casa": "Betfair",
+        "id_oferta": "233",
+        "id_link_oferta": "4021"
+      },
+      {
+        "nome_casa": "Lottoland",
+        "id_oferta": "185",
+        "id_link_oferta": "4022"
+      },
+      {
+        "nome_casa": "SeguroBet",
+        "id_oferta": "181",
+        "id_link_oferta": "4056"
+      },
+      {
+        "nome_casa": "Novibet",
+        "id_oferta": "187",
+        "id_link_oferta": "4191"
+      },
+      {
+        "nome_casa": "Sorteonline",
+        "id_oferta": "184",
+        "id_link_oferta": "4206"
+      }
+    ]
+  },
+  "46": {
+    "nome": "ARthur Philipe",
+    "sub_cadastros": [
+      {
+        "nome_casa": "BetNacional",
+        "id_oferta": "169",
+        "id_link_oferta": "1414"
+      },
+      {
+        "nome_casa": "SportingBet",
+        "id_oferta": "170",
+        "id_link_oferta": "1413"
+      },
+      {
+        "nome_casa": "Apostar",
+        "id_oferta": "172",
+        "id_link_oferta": "1412"
+      },
+      {
+        "nome_casa": "Betmgm",
+        "id_oferta": "173",
+        "id_link_oferta": "1411"
+      },
+      {
+        "nome_casa": "Onabet",
+        "id_oferta": "175",
+        "id_link_oferta": "1419"
+      },
+      {
+        "nome_casa": "Superbet",
+        "id_oferta": "176",
+        "id_link_oferta": "1420"
+      },
+      {
+        "nome_casa": "Melbet",
+        "id_oferta": "177",
+        "id_link_oferta": "1408"
+      },
+      {
+        "nome_casa": "Stake",
+        "id_oferta": "178",
+        "id_link_oferta": "1407"
+      },
+      {
+        "nome_casa": "Esporte da Sorte",
+        "id_oferta": "179",
+        "id_link_oferta": "1421"
+      },
+      {
+        "nome_casa": "Estrelabet",
+        "id_oferta": "180",
+        "id_link_oferta": "1406"
+      },
+      {
+        "nome_casa": "SeguroBet",
+        "id_oferta": "181",
+        "id_link_oferta": "1405"
+      },
+      {
+        "nome_casa": "F12Bet",
+        "id_oferta": "183",
+        "id_link_oferta": "1404"
+      },
+      {
+        "nome_casa": "SorteOnline",
+        "id_oferta": "184",
+        "id_link_oferta": "1403"
+      },
+      {
+        "nome_casa": "Lottoland",
+        "id_oferta": "185",
+        "id_link_oferta": "1402"
+      },
+      {
+        "nome_casa": "Betwinner",
+        "id_oferta": "186",
+        "id_link_oferta": "1401"
+      },
+      {
+        "nome_casa": "Lex",
+        "id_oferta": "207",
+        "id_link_oferta": "1399"
+      },
+      {
+        "nome_casa": "Gizbo",
+        "id_oferta": "208",
+        "id_link_oferta": "1398"
+      },
+      {
+        "nome_casa": "MegaPari",
+        "id_oferta": "214",
+        "id_link_oferta": "1462"
+      },
+      {
+        "nome_casa": "Blaze",
+        "id_oferta": "215",
+        "id_link_oferta": "1480"
+      },
+      {
+        "nome_casa": "Novibet",
+        "id_oferta": "187",
+        "id_link_oferta": "1400"
+      },
+      {
+        "nome_casa": "LotoGreen",
+        "id_oferta": "217",
+        "id_link_oferta": "1529"
+      },
+      {
+        "nome_casa": "Stake BR",
+        "id_oferta": "218",
+        "id_link_oferta": "1987"
+      },
+      {
+        "nome_casa": "CampeonBet",
+        "id_oferta": "220",
+        "id_link_oferta": "2103"
+      },
+      {
+        "nome_casa": "Br4Bet",
+        "id_oferta": "232",
+        "id_link_oferta": "3985"
+      },
+      {
+        "nome_casa": "Multibet",
+        "id_oferta": "216",
+        "id_link_oferta": "4301"
+      }
+    ]
+  },
+  "104": {
+    "nome": "Ricardo",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Apostar",
+        "id_oferta": "172",
+        "id_link_oferta": "1415"
+      },
+      {
+        "nome_casa": "Melbet",
+        "id_oferta": "177",
+        "id_link_oferta": "1416"
+      },
+      {
+        "nome_casa": "Novibet",
+        "id_oferta": "187",
+        "id_link_oferta": "1417"
+      }
+    ]
+  },
+  "107": {
+    "nome": "Davi",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Gizbo",
+        "id_oferta": "208",
+        "id_link_oferta": "1431"
+      },
+      {
+        "nome_casa": "Lex",
+        "id_oferta": "207",
+        "id_link_oferta": "1430"
+      },
+      {
+        "nome_casa": "MegaPari",
+        "id_oferta": "214",
+        "id_link_oferta": "1463"
+      }
+    ]
+  },
+  "105": {
+    "nome": "Yan (Denise Sincera)",
+    "sub_cadastros": [
+      {
+        "nome_casa": "BetMgm",
+        "id_oferta": "213",
+        "id_link_oferta": "1432"
+      },
+      {
+        "nome_casa": "Multibet",
+        "id_oferta": "216",
+        "id_link_oferta": "1483"
+      },
+      {
+        "nome_casa": "Novibet",
+        "id_oferta": "187",
+        "id_link_oferta": "1509"
+      },
+      {
+        "nome_casa": "Sportingbet",
+        "id_oferta": "170",
+        "id_link_oferta": "1510"
+      },
+      {
+        "nome_casa": "Superbet",
+        "id_oferta": "176",
+        "id_link_oferta": "1511"
+      },
+      {
+        "nome_casa": "Estrelabet",
+        "id_oferta": "180",
+        "id_link_oferta": "1512"
+      },
+      {
+        "nome_casa": "Betnacional",
+        "id_oferta": "169",
+        "id_link_oferta": "1590"
+      }
+    ]
+  },
+  "91": {
+    "nome": "Felipe Rayner",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Sportingbet",
+        "id_oferta": "170",
+        "id_link_oferta": "1436"
+      },
+      {
+        "nome_casa": "Superbet",
+        "id_oferta": "176",
+        "id_link_oferta": "1434"
+      },
+      {
+        "nome_casa": "Stake",
+        "id_oferta": "178",
+        "id_link_oferta": "1435"
+      }
+    ]
+  },
+  "50": {
+    "nome": "Jose Batista (zezo)",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Lex",
+        "id_oferta": "207",
+        "id_link_oferta": "1377"
+      },
+      {
+        "nome_casa": "Gizbo",
+        "id_oferta": "208",
+        "id_link_oferta": "1376"
+      }
+    ]
+  },
+  "108": {
+    "nome": "Daniel Rodriges",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Betwinner",
+        "id_oferta": "186",
+        "id_link_oferta": "1433"
+      },
+      {
+        "nome_casa": "Sportingbet",
+        "id_oferta": "170",
+        "id_link_oferta": "1441"
+      },
+      {
+        "nome_casa": "Sorte Online",
+        "id_oferta": "184",
+        "id_link_oferta": "1448"
+      }
+    ]
+  },
+  "109": {
+    "nome": "Lucas",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Melbet",
+        "id_oferta": "177",
+        "id_link_oferta": "1442"
+      },
+      {
+        "nome_casa": "Esporte da Sorte",
+        "id_oferta": "179",
+        "id_link_oferta": "1443"
+      },
+      {
+        "nome_casa": "Sorte Online",
+        "id_oferta": "184",
+        "id_link_oferta": "1444"
+      },
+      {
+        "nome_casa": "Lottoland",
+        "id_oferta": "185",
+        "id_link_oferta": "1445"
+      },
+      {
+        "nome_casa": "Stake",
+        "id_oferta": "178",
+        "id_link_oferta": "1470"
+      },
+      {
+        "nome_casa": "Apostar",
+        "id_oferta": "172",
+        "id_link_oferta": "1471"
+      },
+      {
+        "nome_casa": "SeguroBet",
+        "id_oferta": "181",
+        "id_link_oferta": "1472"
+      },
+      {
+        "nome_casa": "Betwinner",
+        "id_oferta": "186",
+        "id_link_oferta": "1473"
+      },
+      {
+        "nome_casa": "Onabet",
+        "id_oferta": "175",
+        "id_link_oferta": "1478"
+      },
+      {
+        "nome_casa": "Sportingbet",
+        "id_oferta": "170",
+        "id_link_oferta": "1514"
+      },
+      {
+        "nome_casa": "EstrelaBet",
+        "id_oferta": "180",
+        "id_link_oferta": "1515"
+      },
+      {
+        "nome_casa": "Novibet",
+        "id_oferta": "187",
+        "id_link_oferta": "2253"
+      },
+      {
+        "nome_casa": "CampeonBet",
+        "id_oferta": "220",
+        "id_link_oferta": "2255"
+      },
+      {
+        "nome_casa": "BetBoom",
+        "id_oferta": "219",
+        "id_link_oferta": "2256"
+      },
+      {
+        "nome_casa": "Lotogreen",
+        "id_oferta": "217",
+        "id_link_oferta": "3145"
+      },
+      {
+        "nome_casa": "Multibet",
+        "id_oferta": "216",
+        "id_link_oferta": "3146"
+      },
+      {
+        "nome_casa": "Stake",
+        "id_oferta": "218",
+        "id_link_oferta": "3147"
+      },
+      {
+        "nome_casa": "Blaze",
+        "id_oferta": "215",
+        "id_link_oferta": "3828"
+      },
+      {
+        "nome_casa": "Br4Bet",
+        "id_oferta": "232",
+        "id_link_oferta": "4204"
+      }
+    ]
+  },
+  "112": {
+    "nome": "Luis Fernando",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Sportingbet",
+        "id_oferta": "170",
+        "id_link_oferta": "1450"
+      },
+      {
+        "nome_casa": "Onabet",
+        "id_oferta": "175",
+        "id_link_oferta": "1451"
+      },
+      {
+        "nome_casa": "Melbet",
+        "id_oferta": "177",
+        "id_link_oferta": "1452"
+      },
+      {
+        "nome_casa": "Esporte da Sorte",
+        "id_oferta": "179",
+        "id_link_oferta": "1453"
+      },
+      {
+        "nome_casa": "EstrelaBet",
+        "id_oferta": "180",
+        "id_link_oferta": "1454"
+      },
+      {
+        "nome_casa": "Betwinner",
+        "id_oferta": "186",
+        "id_link_oferta": "1455"
+      },
+      {
+        "nome_casa": "Gizbo",
+        "id_oferta": "208",
+        "id_link_oferta": "1449"
+      },
+      {
+        "nome_casa": "Stake",
+        "id_oferta": "178",
+        "id_link_oferta": "1465"
+      },
+      {
+        "nome_casa": "Lex",
+        "id_oferta": "207",
+        "id_link_oferta": "2217"
+      },
+      {
+        "nome_casa": "Apostar",
+        "id_oferta": "172",
+        "id_link_oferta": "2218"
+      },
+      {
+        "nome_casa": "CampeonBet",
+        "id_oferta": "220",
+        "id_link_oferta": "2219"
+      },
+      {
+        "nome_casa": "LotoGreen",
+        "id_oferta": "217",
+        "id_link_oferta": "2220"
+      }
+    ]
+  },
+  "113": {
+    "nome": "PrScore - NobreChat",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Novibet",
+        "id_oferta": "187",
+        "id_link_oferta": "1457"
+      },
+      {
+        "nome_casa": "BetMGM",
+        "id_oferta": "173",
+        "id_link_oferta": "1456"
+      },
+      {
+        "nome_casa": "Multibet",
+        "id_oferta": "216",
+        "id_link_oferta": "1490"
+      },
+      {
+        "nome_casa": "BetMGM NOBRECHAT",
+        "id_oferta": "222",
+        "id_link_oferta": "2265"
+      },
+      {
+        "nome_casa": "SportingBet NOBRECHAT",
+        "id_oferta": "223",
+        "id_link_oferta": "2266"
+      },
+      {
+        "nome_casa": "NobiBet NOBRECHAT",
+        "id_oferta": "224",
+        "id_link_oferta": "2267"
+      },
+      {
+        "nome_casa": "BetMGM PrScore",
+        "id_oferta": "225",
+        "id_link_oferta": "2268"
+      },
+      {
+        "nome_casa": "SportigBet PrScore",
+        "id_oferta": "226",
+        "id_link_oferta": "2269"
+      },
+      {
+        "nome_casa": "Novibet PrScore",
+        "id_oferta": "227",
+        "id_link_oferta": "2270"
+      },
+      {
+        "nome_casa": "MULTIBET",
+        "id_oferta": "216",
+        "id_link_oferta": "4580"
+      }
+    ]
+  },
+  "114": {
+    "nome": "Ana Paula Ruiva",
+    "sub_cadastros": [
+      {
+        "nome_casa": "BetMGM",
+        "id_oferta": "173",
+        "id_link_oferta": "1458"
+      },
+      {
+        "nome_casa": "Multibet",
+        "id_oferta": "216",
+        "id_link_oferta": "1491"
+      },
+      {
+        "nome_casa": "CampeonBet",
+        "id_oferta": "220",
+        "id_link_oferta": "2216"
+      },
+      {
+        "nome_casa": "Casa de Aposta",
+        "id_oferta": "228",
+        "id_link_oferta": "2289"
+      },
+      {
+        "nome_casa": "Betfair",
+        "id_oferta": "233",
+        "id_link_oferta": "4484"
+      }
+    ]
+  },
+  "111": {
+    "nome": "Pedro Bertechini",
+    "sub_cadastros": []
+  },
+  "56": {
+    "nome": "Marlon",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Lottoland",
+        "id_oferta": "185",
+        "id_link_oferta": "20583"
+      },
+      {
+        "nome_casa": "Sportingbet",
+        "id_oferta": "170",
+        "id_link_oferta": "1467"
+      },
+      {
+        "nome_casa": "Betnacional",
+        "id_oferta": "169",
+        "id_link_oferta": "1469"
+      },
+      {
+        "nome_casa": "Stake",
+        "id_oferta": "178",
+        "id_link_oferta": "1466"
+      },
+      {
+        "nome_casa": "Multibet",
+        "id_oferta": "216",
+        "id_link_oferta": "1507"
+      },
+      {
+        "nome_casa": "Stake",
+        "id_oferta": "218",
+        "id_link_oferta": "4328"
+      },
+      {
+        "nome_casa": "EstrelaBet",
+        "id_oferta": "180",
+        "id_link_oferta": "4329"
+      },
+      {
+        "nome_casa": "Br4Bet",
+        "id_oferta": "232",
+        "id_link_oferta": "4330"
+      },
+      {
+        "nome_casa": "CampeonBet",
+        "id_oferta": "220",
+        "id_link_oferta": "4331"
+      },
+      {
+        "nome_casa": "LotoGreen",
+        "id_oferta": "217",
+        "id_link_oferta": "4332"
+      },
+      {
+        "nome_casa": "Blaze",
+        "id_oferta": "215",
+        "id_link_oferta": "4333"
+      },
+      {
+        "nome_casa": "SorteOnline",
+        "id_oferta": "184",
+        "id_link_oferta": "4334"
+      },
+      {
+        "nome_casa": "Esporte da Sorte",
+        "id_oferta": "179",
+        "id_link_oferta": "4335"
+      },
+      {
+        "nome_casa": "F12Bet",
+        "id_oferta": "183",
+        "id_link_oferta": "4336"
+      },
+      {
+        "nome_casa": "SeguroBet",
+        "id_oferta": "181",
+        "id_link_oferta": "4337"
+      },
+      {
+        "nome_casa": "OnaBet",
+        "id_oferta": "175",
+        "id_link_oferta": "4338"
+      },
+      {
+        "nome_casa": "Apostar",
+        "id_oferta": "172",
+        "id_link_oferta": "4339"
+      },
+      {
+        "nome_casa": "Melbet",
+        "id_oferta": "177",
+        "id_link_oferta": "4340"
+      },
+      {
+        "nome_casa": "Superbet",
+        "id_oferta": "176",
+        "id_link_oferta": "4341"
+      }
+    ]
+  },
+  "110": {
+    "nome": "Gabrieli",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Multibet",
+        "id_oferta": "216",
+        "id_link_oferta": "1492"
+      },
+      {
+        "nome_casa": "Blaze",
+        "id_oferta": "215",
+        "id_link_oferta": "1493"
+      },
+      {
+        "nome_casa": "Novibet",
+        "id_oferta": "187",
+        "id_link_oferta": "1506"
+      },
+      {
+        "nome_casa": "Betwinner",
+        "id_oferta": "186",
+        "id_link_oferta": "1504"
+      },
+      {
+        "nome_casa": "Lottoland",
+        "id_oferta": "185",
+        "id_link_oferta": "1494"
+      },
+      {
+        "nome_casa": "SorteOnline",
+        "id_oferta": "184",
+        "id_link_oferta": "1495"
+      },
+      {
+        "nome_casa": "F12bet",
+        "id_oferta": "183",
+        "id_link_oferta": "1496"
+      },
+      {
+        "nome_casa": "Segurobet",
+        "id_oferta": "181",
+        "id_link_oferta": "1497"
+      },
+      {
+        "nome_casa": "Estrelabet",
+        "id_oferta": "180",
+        "id_link_oferta": "1503"
+      },
+      {
+        "nome_casa": "Esportes da sorte",
+        "id_oferta": "179",
+        "id_link_oferta": "1498"
+      },
+      {
+        "nome_casa": "Stake",
+        "id_oferta": "178",
+        "id_link_oferta": "1499"
+      },
+      {
+        "nome_casa": "Melbet",
+        "id_oferta": "177",
+        "id_link_oferta": "1500"
+      },
+      {
+        "nome_casa": "Onabet",
+        "id_oferta": "175",
+        "id_link_oferta": "1501"
+      },
+      {
+        "nome_casa": "Sportingbet",
+        "id_oferta": "170",
+        "id_link_oferta": "1502"
+      },
+      {
+        "nome_casa": "Betnacional",
+        "id_oferta": "169",
+        "id_link_oferta": "1505"
+      },
+      {
+        "nome_casa": "Lotogreen",
+        "id_oferta": "217",
+        "id_link_oferta": "1975"
+      },
+      {
+        "nome_casa": "Megapari",
+        "id_oferta": "214",
+        "id_link_oferta": "1977"
+      },
+      {
+        "nome_casa": "Gizbo",
+        "id_oferta": "208",
+        "id_link_oferta": "1978"
+      },
+      {
+        "nome_casa": "Lex",
+        "id_oferta": "207",
+        "id_link_oferta": "1979"
+      },
+      {
+        "nome_casa": "Superbet",
+        "id_oferta": "176",
+        "id_link_oferta": "1976"
+      },
+      {
+        "nome_casa": "Apostar",
+        "id_oferta": "172",
+        "id_link_oferta": "1980"
+      },
+      {
+        "nome_casa": "Stake BR",
+        "id_oferta": "218",
+        "id_link_oferta": "1986"
+      },
+      {
+        "nome_casa": "BetBoom",
+        "id_oferta": "219",
+        "id_link_oferta": "2098"
+      },
+      {
+        "nome_casa": "CampeonBet",
+        "id_oferta": "220",
+        "id_link_oferta": "2106"
+      },
+      {
+        "nome_casa": "BetMGM",
+        "id_oferta": "173",
+        "id_link_oferta": "2287"
+      },
+      {
+        "nome_casa": "Betfair",
+        "id_oferta": "233",
+        "id_link_oferta": "4023"
+      },
+      {
+        "nome_casa": "Br4Bet",
+        "id_oferta": "232",
+        "id_link_oferta": "4024"
+      }
+    ]
+  },
+  "116": {
+    "nome": "Maria",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Novibet",
+        "id_oferta": "187",
+        "id_link_oferta": "1513"
+      }
+    ]
+  },
+  "117": {
+    "nome": "Eagles",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Eagle #01",
+        "id_oferta": "173",
+        "id_link_oferta": "1799"
+      },
+      {
+        "nome_casa": "Eagle #02",
+        "id_oferta": "173",
+        "id_link_oferta": "1800"
+      },
+      {
+        "nome_casa": "Eagle #03",
+        "id_oferta": "173",
+        "id_link_oferta": "1801"
+      },
+      {
+        "nome_casa": "Eagle #04",
+        "id_oferta": "173",
+        "id_link_oferta": "1802"
+      },
+      {
+        "nome_casa": "Eagle #05",
+        "id_oferta": "173",
+        "id_link_oferta": "1982"
+      },
+      {
+        "nome_casa": "Eagle #06",
+        "id_oferta": "173",
+        "id_link_oferta": "1983"
+      },
+      {
+        "nome_casa": "Eagle #07",
+        "id_oferta": "173",
+        "id_link_oferta": "1984"
+      },
+      {
+        "nome_casa": "Taça #01",
+        "id_oferta": "173",
+        "id_link_oferta": "2488"
+      },
+      {
+        "nome_casa": "Taça #02",
+        "id_oferta": "173",
+        "id_link_oferta": "2489"
+      },
+      {
+        "nome_casa": "Taça #03",
+        "id_oferta": "173",
+        "id_link_oferta": "2490"
+      },
+      {
+        "nome_casa": "Taça #04",
+        "id_oferta": "173",
+        "id_link_oferta": "2491"
+      }
+    ]
+  },
+  "118": {
+    "nome": "Leonardo",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Betnacional",
+        "id_oferta": "169",
+        "id_link_oferta": "19692"
+      },
+      {
+        "nome_casa": "Apostar",
+        "id_oferta": "172",
+        "id_link_oferta": "1879"
+      },
+      {
+        "nome_casa": "Onabet",
+        "id_oferta": "175",
+        "id_link_oferta": "1853"
+      },
+      {
+        "nome_casa": "Superbet",
+        "id_oferta": "176",
+        "id_link_oferta": "1851"
+      },
+      {
+        "nome_casa": "Stake",
+        "id_oferta": "178",
+        "id_link_oferta": "1848"
+      },
+      {
+        "nome_casa": "Esporte da Sorte",
+        "id_oferta": "179",
+        "id_link_oferta": "1849"
+      },
+      {
+        "nome_casa": "Estrelabet",
+        "id_oferta": "180",
+        "id_link_oferta": "1881"
+      },
+      {
+        "nome_casa": "Segurobet",
+        "id_oferta": "181",
+        "id_link_oferta": "1857"
+      },
+      {
+        "nome_casa": "F12bet",
+        "id_oferta": "183",
+        "id_link_oferta": "1840"
+      },
+      {
+        "nome_casa": "SorteOnline",
+        "id_oferta": "184",
+        "id_link_oferta": "1843"
+      },
+      {
+        "nome_casa": "Lottoland",
+        "id_oferta": "185",
+        "id_link_oferta": "1845"
+      },
+      {
+        "nome_casa": "Novibet",
+        "id_oferta": "187",
+        "id_link_oferta": "1880"
+      },
+      {
+        "nome_casa": "Megapari",
+        "id_oferta": "214",
+        "id_link_oferta": "1866"
+      },
+      {
+        "nome_casa": "Multibet",
+        "id_oferta": "216",
+        "id_link_oferta": "1876"
+      },
+      {
+        "nome_casa": "Lottogreen",
+        "id_oferta": "217",
+        "id_link_oferta": "1855"
+      },
+      {
+        "nome_casa": "Stake Br",
+        "id_oferta": "218",
+        "id_link_oferta": "2430"
+      },
+      {
+        "nome_casa": "Blaze",
+        "id_oferta": "215",
+        "id_link_oferta": "2431"
+      },
+      {
+        "nome_casa": "BeBoom",
+        "id_oferta": "219",
+        "id_link_oferta": "2432"
+      },
+      {
+        "nome_casa": "Br4Bet",
+        "id_oferta": "232",
+        "id_link_oferta": "4060"
+      },
+      {
+        "nome_casa": "BetFair",
+        "id_oferta": "233",
+        "id_link_oferta": "4061"
+      }
+    ]
+  },
+  "119": {
+    "nome": "Fabio Vinicius",
+    "sub_cadastros": [
+      {
+        "nome_casa": "EstrelaBET",
+        "id_oferta": "180",
+        "id_link_oferta": "2254"
+      },
+      {
+        "nome_casa": "Stake",
+        "id_oferta": "218",
+        "id_link_oferta": "4016"
+      }
+    ]
+  },
+  "120": {
+    "nome": "Pedro Rimes",
+    "sub_cadastros": [
+      {
+        "nome_casa": "BetMGM - NOBRECHAT",
+        "id_oferta": "1",
+        "id_link_oferta": "1"
+      },
+      {
+        "nome_casa": "Sportingbet - NOBRECHAT",
+        "id_oferta": "1",
+        "id_link_oferta": "1"
+      },
+      {
+        "nome_casa": "Novibet - NOBRECHAT",
+        "id_oferta": "1",
+        "id_link_oferta": "1"
+      },
+      {
+        "nome_casa": "BetMGM - PrScore",
+        "id_oferta": "1",
+        "id_link_oferta": "1"
+      },
+      {
+        "nome_casa": "Sportingbet - PrScore",
+        "id_oferta": "1",
+        "id_link_oferta": "1"
+      },
+      {
+        "nome_casa": "Novibet - PrScore",
+        "id_oferta": "1",
+        "id_link_oferta": "1"
+      }
+    ]
+  },
+  "121": {
+    "nome": "Royal club (alvaro)",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Royal 1",
+        "id_oferta": "173",
+        "id_link_oferta": "2288"
+      },
+      {
+        "nome_casa": "Royal 2",
+        "id_oferta": "173",
+        "id_link_oferta": "2508"
+      },
+      {
+        "nome_casa": "Royal 3",
+        "id_oferta": "173",
+        "id_link_oferta": "2509"
+      },
+      {
+        "nome_casa": "Royal 4",
+        "id_oferta": "173",
+        "id_link_oferta": "2010"
+      }
+    ]
+  },
+  "123": {
+    "nome": "Michael",
+    "sub_cadastros": [
+      {
+        "nome_casa": "CampeonBet",
+        "id_oferta": "220",
+        "id_link_oferta": "3148"
+      },
+      {
+        "nome_casa": "Multibet",
+        "id_oferta": "216",
+        "id_link_oferta": "3149"
+      },
+      {
+        "nome_casa": "Estrelabet",
+        "id_oferta": "180",
+        "id_link_oferta": "3150"
+      },
+      {
+        "nome_casa": "Sportingbet",
+        "id_oferta": "170",
+        "id_link_oferta": "4442"
+      },
+      {
+        "nome_casa": "Betfair",
+        "id_oferta": "233",
+        "id_link_oferta": "4443"
+      },
+      {
+        "nome_casa": "Br4Bet",
+        "id_oferta": "232",
+        "id_link_oferta": "4444"
+      },
+      {
+        "nome_casa": "Apostar",
+        "id_oferta": "172",
+        "id_link_oferta": "4445"
+      }
+    ]
+  },
+  "125": {
+    "nome": "Diguinho",
+    "sub_cadastros": [
+      {
+        "nome_casa": "BetMGM",
+        "id_oferta": "235",
+        "id_link_oferta": "4048"
+      },
+      {
+        "nome_casa": "SportingBet",
+        "id_oferta": "236",
+        "id_link_oferta": "4050"
+      },
+      {
+        "nome_casa": "Casa de Aposta",
+        "id_oferta": "237",
+        "id_link_oferta": "4051"
+      },
+      {
+        "nome_casa": "Novibet",
+        "id_oferta": "238",
+        "id_link_oferta": "4052"
+      }
+    ]
+  },
+  "124": {
+    "nome": "FredRing",
+    "sub_cadastros": [
+      {
+        "nome_casa": "BetMGM",
+        "id_oferta": "239",
+        "id_link_oferta": "4049"
+      },
+      {
+        "nome_casa": "SportingBet",
+        "id_oferta": "240",
+        "id_link_oferta": "4053"
+      },
+      {
+        "nome_casa": "Casa de Aposta",
+        "id_oferta": "241",
+        "id_link_oferta": "4054"
+      },
+      {
+        "nome_casa": "Novibet",
+        "id_oferta": "242",
+        "id_link_oferta": "4055"
+      }
+    ]
+  },
+  "47": {
+    "nome": "Palpites ALS",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Superbet",
+        "id_oferta": "176",
+        "id_link_oferta": "4405"
+      }
+    ]
+  },
+  "126": {
+    "nome": "Fernanda",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Betfair",
+        "id_oferta": "233",
+        "id_link_oferta": "4446"
+      },
+      {
+        "nome_casa": "Stake",
+        "id_oferta": "218",
+        "id_link_oferta": "4447"
+      },
+      {
+        "nome_casa": "Multibet",
+        "id_oferta": "216",
+        "id_link_oferta": "4448"
+      },
+      {
+        "nome_casa": "Blaze",
+        "id_oferta": "215",
+        "id_link_oferta": "4449"
+      },
+      {
+        "nome_casa": "F12bet",
+        "id_oferta": "183",
+        "id_link_oferta": "4450"
+      },
+      {
+        "nome_casa": "Estrelabet",
+        "id_oferta": "180",
+        "id_link_oferta": "4451"
+      },
+      {
+        "nome_casa": "Superbet",
+        "id_oferta": "176",
+        "id_link_oferta": "4452"
+      },
+      {
+        "nome_casa": "Sportingbet",
+        "id_oferta": "170",
+        "id_link_oferta": "4453"
+      },
+      {
+        "nome_casa": "Apostar",
+        "id_oferta": "172",
+        "id_link_oferta": "4454"
+      }
+    ]
+  },
+  "129": {
+    "nome": "Osvaldo",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Multibet",
+        "id_oferta": "216",
+        "id_link_oferta": "4507"
+      },
+      {
+        "nome_casa": "Multibet 1",
+        "id_oferta": "216",
+        "id_link_oferta": "4508"
+      },
+      {
+        "nome_casa": "Multibet 2",
+        "id_oferta": "216",
+        "id_link_oferta": "4509"
+      },
+      {
+        "nome_casa": "Multibet 3",
+        "id_oferta": "216",
+        "id_link_oferta": "4510"
+      },
+      {
+        "nome_casa": "Estrelabet",
+        "id_oferta": "180",
+        "id_link_oferta": "4527"
+      }
+    ]
+  },
+  "132": {
+    "nome": "VOVOTECABR",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Br4Bet",
+        "id_oferta": "232",
+        "id_link_oferta": "4513"
+      },
+      {
+        "nome_casa": "Betfair",
+        "id_oferta": "233",
+        "id_link_oferta": "4514"
+      }
+    ]
+  },
+  "130": {
+    "nome": "William",
+    "sub_cadastros": [
+      {
+        "nome_casa": "BetFair",
+        "id_oferta": "233",
+        "id_link_oferta": "4515"
+      },
+      {
+        "nome_casa": "Stake",
+        "id_oferta": "218",
+        "id_link_oferta": "4516"
+      },
+      {
+        "nome_casa": "Esporte da Sorte",
+        "id_oferta": "179",
+        "id_link_oferta": "4517"
+      },
+      {
+        "nome_casa": "EstrelaBet",
+        "id_oferta": "180",
+        "id_link_oferta": "4519"
+      },
+      {
+        "nome_casa": "Superbet",
+        "id_oferta": "176",
+        "id_link_oferta": "4520"
+      }
+    ]
+  },
+  "133": {
+    "nome": "Rayca",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Multibet",
+        "id_oferta": "216",
+        "id_link_oferta": "4522"
+      }
+    ]
+  },
+  "134": {
+    "nome": "Rhonan",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Stake",
+        "id_oferta": "218",
+        "id_link_oferta": "4541"
+      },
+      {
+        "nome_casa": "Multibet",
+        "id_oferta": "216",
+        "id_link_oferta": "4543"
+      },
+      {
+        "nome_casa": "Estrelabet",
+        "id_oferta": "180",
+        "id_link_oferta": "4545"
+      }
+    ]
+  },
+  "135": {
+    "nome": "Luis Fernando",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Stake",
+        "id_oferta": "218",
+        "id_link_oferta": "4542"
+      },
+      {
+        "nome_casa": "Multibet",
+        "id_oferta": "216",
+        "id_link_oferta": "4544"
+      },
+      {
+        "nome_casa": "Estrelabet",
+        "id_oferta": "180",
+        "id_link_oferta": "4546"
+      }
+    ]
+  },
+  "138": {
+    "nome": "Allan",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Multibet",
+        "id_oferta": "216",
+        "id_link_oferta": "4550"
+      },
+      {
+        "nome_casa": "stake",
+        "id_oferta": "218",
+        "id_link_oferta": "4560"
+      },
+      {
+        "nome_casa": "estrelabet",
+        "id_oferta": "180",
+        "id_link_oferta": "4561"
+      },
+      {
+        "nome_casa": "apostar",
+        "id_oferta": "172",
+        "id_link_oferta": "4562"
+      },
+      {
+        "nome_casa": "betnacional",
+        "id_oferta": "169",
+        "id_link_oferta": "4563"
+      },
+      {
+        "nome_casa": "betfair",
+        "id_oferta": "233",
+        "id_link_oferta": "4565"
+      },
+      {
+        "nome_casa": "campeonbet",
+        "id_oferta": "220",
+        "id_link_oferta": "4566"
+      },
+      {
+        "nome_casa": "lotogreen",
+        "id_oferta": "217",
+        "id_link_oferta": "4567"
+      },
+      {
+        "nome_casa": "blaze",
+        "id_oferta": "215",
+        "id_link_oferta": "4568"
+      },
+      {
+        "nome_casa": "f12bet",
+        "id_oferta": "183",
+        "id_link_oferta": "4569"
+      },
+      {
+        "nome_casa": "segurobet",
+        "id_oferta": "181",
+        "id_link_oferta": "4570"
+      },
+      {
+        "nome_casa": "esporte da sorte",
+        "id_oferta": "179",
+        "id_link_oferta": "4571"
+      },
+      {
+        "nome_casa": "melbet",
+        "id_oferta": "177",
+        "id_link_oferta": "4572"
+      },
+      {
+        "nome_casa": "onabet",
+        "id_oferta": "175",
+        "id_link_oferta": "4573"
+      },
+      {
+        "nome_casa": "superbet",
+        "id_oferta": "176",
+        "id_link_oferta": "4574"
+      },
+      {
+        "nome_casa": "sportingbet",
+        "id_oferta": "170",
+        "id_link_oferta": "4575"
+      }
+    ]
+  },
+  "139": {
+    "nome": "Felipe",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Stake",
+        "id_oferta": "218",
+        "id_link_oferta": "4576"
+      },
+      {
+        "nome_casa": "Multibet",
+        "id_oferta": "216",
+        "id_link_oferta": "4577"
+      },
+      {
+        "nome_casa": "Estrelabet",
+        "id_oferta": "180",
+        "id_link_oferta": "4578"
+      }
+    ]
+  },
+  "142": {
+    "nome": "Tiago Ramos",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Multibet",
+        "id_oferta": "216",
+        "id_link_oferta": "4588"
+      }
+    ]
+  },
+  "146": {
+    "nome": "Erick",
+    "sub_cadastros": [
+      {
+        "nome_casa": "Novibet",
+        "id_oferta": "187",
+        "id_link_oferta": "4589"
+      }
+    ]
+  },
+  "234": {
+    "nome": "234",
+    "sub_cadastros": []
+  }
+}

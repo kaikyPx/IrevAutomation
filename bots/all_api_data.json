@@ -1,0 +1,6202 @@
+[
+  {
+    "advertiser_id": 7,
+    "advertiser_name": "Campeonbet - BR",
+    "traffic_source_id": 2423,
+    "traffic_source_name": "Robert #84",
+    "affiliate_link_id": 20456,
+    "affiliate_link_name": "Robert #84",
+    "dates": [
+      {
+        "date": "01-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 7,
+    "advertiser_name": "Campeonbet - BR",
+    "traffic_source_id": 2650,
+    "traffic_source_name": "Pedro Ivan #90",
+    "affiliate_link_id": 20459,
+    "affiliate_link_name": "Pedro Ivan #90",
+    "dates": [
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "11-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 3,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "12-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 7,
+    "advertiser_name": "Campeonbet - BR",
+    "traffic_source_id": 2662,
+    "traffic_source_name": "Gabrieli #110",
+    "affiliate_link_id": 19857,
+    "affiliate_link_name": "Gabrieli #110",
+    "dates": [
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 7,
+    "advertiser_name": "Campeonbet - BR",
+    "traffic_source_id": 2700,
+    "traffic_source_name": "Ana paula #114",
+    "affiliate_link_id": 19838,
+    "affiliate_link_name": "Ana Paula #114",
+    "dates": [
+      {
+        "date": "01-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 2,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 7,
+    "advertiser_name": "Campeonbet - BR",
+    "traffic_source_id": 2700,
+    "traffic_source_name": "Ana paula #114",
+    "affiliate_link_id": 20019,
+    "affiliate_link_name": "Ana Paula #114",
+    "dates": [
+      {
+        "date": "01-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.786,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 3.93,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.786
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.4455,
+          "deposits": 8.18,
+          "cpa_count": 0,
+          "net_revenue": 2.23,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.4455
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 7,
+    "advertiser_name": "Campeonbet - BR",
+    "traffic_source_id": 2860,
+    "traffic_source_name": "Allan #138",
+    "affiliate_link_id": 21194,
+    "affiliate_link_name": "Allan #138",
+    "dates": [
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 3,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 10,
+    "advertiser_name": "F12.bet - BR",
+    "traffic_source_id": 1968,
+    "traffic_source_name": "Arthur #46",
+    "affiliate_link_id": 17069,
+    "affiliate_link_name": "f12bet #46",
+    "dates": [
+      {
+        "date": "01-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.7443000000000001,
+          "deposits": 6.57,
+          "cpa_count": 0,
+          "net_revenue": 3.72,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.7443000000000001
+        }
+      },
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 4.4983,
+          "deposits": 19.7,
+          "cpa_count": 0,
+          "net_revenue": 22.490000000000002,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 4.4983
+        }
+      },
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 1.3235000000000001,
+          "deposits": 6.57,
+          "cpa_count": 0,
+          "net_revenue": 6.62,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 1.3235000000000001
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.098,
+          "deposits": 0.49000000000000005,
+          "cpa_count": 0,
+          "net_revenue": 0.49000000000000005,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.098
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 1.3153000000000001,
+          "deposits": 6.5600000000000005,
+          "cpa_count": 0,
+          "net_revenue": 6.58,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 1.3153000000000001
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -6.5742,
+          "deposits": 13.110000000000001,
+          "cpa_count": 0,
+          "net_revenue": -32.870000000000005,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -6.5742
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -2.5599000000000003,
+          "deposits": 7.21,
+          "cpa_count": 0,
+          "net_revenue": -12.8,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -2.5599000000000003
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 1.3232000000000002,
+          "deposits": 6.5600000000000005,
+          "cpa_count": 0,
+          "net_revenue": 6.62,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 1.3232000000000002
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -4.3319,
+          "deposits": 11.58,
+          "cpa_count": 0,
+          "net_revenue": -21.66,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -4.3319
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 2.5277000000000003,
+          "deposits": 12.440000000000001,
+          "cpa_count": 0,
+          "net_revenue": 12.64,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 2.5277000000000003
+        }
+      },
+      {
+        "date": "11-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 1.3355000000000001,
+          "deposits": 6.680000000000001,
+          "cpa_count": 0,
+          "net_revenue": 6.680000000000001,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 1.3355000000000001
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 10,
+    "advertiser_name": "F12.bet - BR",
+    "traffic_source_id": 2662,
+    "traffic_source_name": "Gabrieli #110",
+    "affiliate_link_id": 19538,
+    "affiliate_link_name": "Gabrieli #110",
+    "dates": [
+      {
+        "date": "01-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 4.272,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 21.36,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 4.272
+        }
+      },
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 2,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 1,
+          "total_earnings": 16.967200000000002,
+          "deposits": 16.720000000000002,
+          "cpa_count": 1,
+          "net_revenue": 9.84,
+          "cpa_earnings": 15.0,
+          "rs_earnings": 1.9672
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 6.3539,
+          "deposits": 24.82,
+          "cpa_count": 0,
+          "net_revenue": 31.770000000000003,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 6.3539
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -19.410700000000002,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -97.05000000000001,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -19.410700000000002
+        }
+      },
+      {
+        "date": "11-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 10,
+    "advertiser_name": "F12.bet - BR",
+    "traffic_source_id": 2860,
+    "traffic_source_name": "Allan #138",
+    "affiliate_link_id": 21196,
+    "affiliate_link_name": "Allan #138",
+    "dates": [
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 17,
+    "advertiser_name": "Onabet - BR",
+    "traffic_source_id": 1968,
+    "traffic_source_name": "Arthur #46",
+    "affiliate_link_id": 14080,
+    "affiliate_link_name": "onabet #46",
+    "dates": [
+      {
+        "date": "01-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.1121,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.45,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.1121
+        }
+      },
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 21.1141,
+          "deposits": 6.57,
+          "cpa_count": 1,
+          "net_revenue": 4.46,
+          "cpa_earnings": 20.0,
+          "rs_earnings": 1.1141
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 1.5352000000000001,
+          "deposits": 8.200000000000001,
+          "cpa_count": 0,
+          "net_revenue": 6.140000000000001,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 1.5352000000000001
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 1.6991,
+          "deposits": 9.84,
+          "cpa_count": 0,
+          "net_revenue": 6.800000000000001,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 1.6991
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "11-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.057600000000000005,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.23,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.057600000000000005
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 17,
+    "advertiser_name": "Onabet - BR",
+    "traffic_source_id": 2368,
+    "traffic_source_name": "Jonathan #102",
+    "affiliate_link_id": 19068,
+    "affiliate_link_name": "Jonathan #102",
+    "dates": [
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 7,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 2,
+          "signups": 0,
+          "ftds": 1,
+          "total_earnings": 18.729100000000003,
+          "deposits": 13.16,
+          "cpa_count": 1,
+          "net_revenue": -5.08,
+          "cpa_earnings": 20.0,
+          "rs_earnings": -1.2709000000000001
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 2.0889,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 8.360000000000001,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 2.0889
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 4,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 1,
+          "total_earnings": 20.0,
+          "deposits": 9.84,
+          "cpa_count": 1,
+          "net_revenue": 0.0,
+          "cpa_earnings": 20.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 1.7126000000000001,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 6.8500000000000005,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 1.7126000000000001
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 3,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "11-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 2,
+          "signups": 2,
+          "ftds": 1,
+          "total_earnings": 20.0,
+          "deposits": 10.020000000000001,
+          "cpa_count": 1,
+          "net_revenue": 0.0,
+          "cpa_earnings": 20.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "12-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": 1.7364000000000002,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 6.95,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 1.7364000000000002
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 17,
+    "advertiser_name": "Onabet - BR",
+    "traffic_source_id": 2423,
+    "traffic_source_name": "Robert #84",
+    "affiliate_link_id": 17104,
+    "affiliate_link_name": "Onabet #84",
+    "dates": [
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 2,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 17,
+    "advertiser_name": "Onabet - BR",
+    "traffic_source_id": 2591,
+    "traffic_source_name": "Lucas #109",
+    "affiliate_link_id": 19299,
+    "affiliate_link_name": "Lucas #109",
+    "dates": [
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 20.0,
+          "deposits": 14.75,
+          "cpa_count": 1,
+          "net_revenue": 0.0,
+          "cpa_earnings": 20.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -3.3044000000000002,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -13.22,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -3.3044000000000002
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "11-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.028800000000000003,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.12000000000000001,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.028800000000000003
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 17,
+    "advertiser_name": "Onabet - BR",
+    "traffic_source_id": 2621,
+    "traffic_source_name": "Luis FErnando #112",
+    "affiliate_link_id": 19194,
+    "affiliate_link_name": "Luis Fernando #112",
+    "dates": [
+      {
+        "date": "01-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 1,
+          "total_earnings": 22.5225,
+          "deposits": 14.790000000000001,
+          "cpa_count": 1,
+          "net_revenue": 10.09,
+          "cpa_earnings": 20.0,
+          "rs_earnings": 2.5225
+        }
+      },
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 2,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 1,
+          "ftds": 1,
+          "total_earnings": 20.0,
+          "deposits": 14.8,
+          "cpa_count": 1,
+          "net_revenue": 0.0,
+          "cpa_earnings": 20.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 2,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": -2.7753,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -11.1,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -2.7753
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 3,
+          "signups": 2,
+          "ftds": 1,
+          "total_earnings": 20.0,
+          "deposits": 16.59,
+          "cpa_count": 1,
+          "net_revenue": 0.0,
+          "cpa_earnings": 20.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "11-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "12-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": -6.829700000000001,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -27.32,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -6.829700000000001
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 17,
+    "advertiser_name": "Onabet - BR",
+    "traffic_source_id": 2633,
+    "traffic_source_name": "Marlon #56",
+    "affiliate_link_id": 20589,
+    "affiliate_link_name": "Marlon #56",
+    "dates": [
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 3,
+          "signups": 2,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 3,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 17,
+    "advertiser_name": "Onabet - BR",
+    "traffic_source_id": 2650,
+    "traffic_source_name": "Pedro Ivan #90",
+    "affiliate_link_id": 20096,
+    "affiliate_link_name": "Pedro Ivan #90",
+    "dates": [
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 1,
+          "ftds": 1,
+          "total_earnings": 20.0,
+          "deposits": 10.5,
+          "cpa_count": 1,
+          "net_revenue": 0.0,
+          "cpa_earnings": 20.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 9,
+          "signups": 1,
+          "ftds": 1,
+          "total_earnings": 21.809800000000003,
+          "deposits": 12.790000000000001,
+          "cpa_count": 1,
+          "net_revenue": 7.24,
+          "cpa_earnings": 20.0,
+          "rs_earnings": 1.8098
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 2.2057,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 8.82,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 2.2057
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "11-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "12-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 17,
+    "advertiser_name": "Onabet - BR",
+    "traffic_source_id": 2662,
+    "traffic_source_name": "Gabrieli #110",
+    "affiliate_link_id": 19543,
+    "affiliate_link_name": "Gabrieli #110",
+    "dates": [
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -17.9279,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -71.71000000000001,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -17.9279
+        }
+      },
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 2,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 17.75,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 3.0639000000000003,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 12.26,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 3.0639000000000003
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 1,
+          "total_earnings": 20.0,
+          "deposits": 21.310000000000002,
+          "cpa_count": 1,
+          "net_revenue": 0.0,
+          "cpa_earnings": 20.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 3.6761000000000004,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 14.700000000000001,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 3.6761000000000004
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 19.91,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "11-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -6.3687000000000005,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -25.470000000000002,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -6.3687000000000005
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 17,
+    "advertiser_name": "Onabet - BR",
+    "traffic_source_id": 2692,
+    "traffic_source_name": "Leonardo #118",
+    "affiliate_link_id": 19692,
+    "affiliate_link_name": "Leonardo #118",
+    "dates": [
+      {
+        "date": "01-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 28,
+          "signups": 1,
+          "ftds": 1,
+          "total_earnings": 21.7006,
+          "deposits": 9.860000000000001,
+          "cpa_count": 1,
+          "net_revenue": 6.800000000000001,
+          "cpa_earnings": 20.0,
+          "rs_earnings": 1.7006000000000001
+        }
+      },
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 2,
+          "total_earnings": 41.6993,
+          "deposits": 19.7,
+          "cpa_count": 2,
+          "net_revenue": 6.800000000000001,
+          "cpa_earnings": 40.0,
+          "rs_earnings": 1.6993
+        }
+      },
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0279,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.11,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0279
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 17,
+    "advertiser_name": "Onabet - BR",
+    "traffic_source_id": 2860,
+    "traffic_source_name": "Allan #138",
+    "affiliate_link_id": 21200,
+    "affiliate_link_name": "Allan #138",
+    "dates": [
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 18,
+    "advertiser_name": "Esportes Da Sorte - BR",
+    "traffic_source_id": 436,
+    "traffic_source_name": "QB PPC GOOGLE",
+    "affiliate_link_id": 5581,
+    "affiliate_link_name": "QB PPC Esporte da sorte",
+    "dates": [
+      {
+        "date": "01-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "11-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 18,
+    "advertiser_name": "Esportes Da Sorte - BR",
+    "traffic_source_id": 2201,
+    "traffic_source_name": "Moises #79",
+    "affiliate_link_id": 17017,
+    "affiliate_link_name": "telegram",
+    "dates": [
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.5341,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 2.14,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.5341
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.6681,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 2.67,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.6681
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.8088000000000001,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 3.24,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.8088000000000001
+        }
+      },
+      {
+        "date": "11-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "12-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 4.7766,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 19.11,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 4.7766
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 18,
+    "advertiser_name": "Esportes Da Sorte - BR",
+    "traffic_source_id": 2368,
+    "traffic_source_name": "Jonathan #102",
+    "affiliate_link_id": 17035,
+    "affiliate_link_name": "Jonathan #102",
+    "dates": [
+      {
+        "date": "01-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 2,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 3,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 1,
+          "total_earnings": 22.136200000000002,
+          "deposits": 13.15,
+          "cpa_count": 1,
+          "net_revenue": 8.540000000000001,
+          "cpa_earnings": 20.0,
+          "rs_earnings": 2.1362
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -3.9339000000000004,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -15.74,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -3.9339000000000004
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 4,
+          "signups": 2,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 1,
+          "total_earnings": 16.177400000000002,
+          "deposits": 11.48,
+          "cpa_count": 1,
+          "net_revenue": -15.290000000000001,
+          "cpa_earnings": 20.0,
+          "rs_earnings": -3.8226
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 1.0218,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 4.09,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 1.0218
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 3,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "11-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 2,
+          "signups": 2,
+          "ftds": 1,
+          "total_earnings": 21.8994,
+          "deposits": 13.360000000000001,
+          "cpa_count": 1,
+          "net_revenue": 7.6000000000000005,
+          "cpa_earnings": 20.0,
+          "rs_earnings": 1.8994000000000002
+        }
+      },
+      {
+        "date": "12-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 1,
+          "total_earnings": 21.9083,
+          "deposits": 13.42,
+          "cpa_count": 1,
+          "net_revenue": 7.630000000000001,
+          "cpa_earnings": 20.0,
+          "rs_earnings": 1.9083
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 18,
+    "advertiser_name": "Esportes Da Sorte - BR",
+    "traffic_source_id": 2423,
+    "traffic_source_name": "Robert #84",
+    "affiliate_link_id": 19703,
+    "affiliate_link_name": "Robert #84",
+    "dates": [
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 18,
+    "advertiser_name": "Esportes Da Sorte - BR",
+    "traffic_source_id": 2591,
+    "traffic_source_name": "Lucas #109",
+    "affiliate_link_id": 19072,
+    "affiliate_link_name": "Lucas #109",
+    "dates": [
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -0.0131,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -0.05,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -0.0131
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 22.6639,
+          "deposits": 16.39,
+          "cpa_count": 1,
+          "net_revenue": 10.66,
+          "cpa_earnings": 20.0,
+          "rs_earnings": 2.6639
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 18,
+    "advertiser_name": "Esportes Da Sorte - BR",
+    "traffic_source_id": 2621,
+    "traffic_source_name": "Luis FErnando #112",
+    "affiliate_link_id": 19196,
+    "affiliate_link_name": "Luis Fernando #112",
+    "dates": [
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 2,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 2,
+          "signups": 2,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 3,
+          "signups": 2,
+          "ftds": 1,
+          "total_earnings": 21.8871,
+          "deposits": 13.270000000000001,
+          "cpa_count": 1,
+          "net_revenue": 7.550000000000001,
+          "cpa_earnings": 20.0,
+          "rs_earnings": 1.8872
+        }
+      },
+      {
+        "date": "11-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 18,
+    "advertiser_name": "Esportes Da Sorte - BR",
+    "traffic_source_id": 2650,
+    "traffic_source_name": "Pedro Ivan #90",
+    "affiliate_link_id": 20094,
+    "affiliate_link_name": "Pedro Ivan #90",
+    "dates": [
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 1,
+          "ftds": 1,
+          "total_earnings": 22.2983,
+          "deposits": 14.14,
+          "cpa_count": 1,
+          "net_revenue": 9.190000000000001,
+          "cpa_earnings": 20.0,
+          "rs_earnings": 2.2983000000000002
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 9,
+          "signups": 1,
+          "ftds": 1,
+          "total_earnings": 1.252,
+          "deposits": 7.7,
+          "cpa_count": 0,
+          "net_revenue": 5.010000000000001,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 1.252
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 3,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": -2.7043,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -10.82,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -2.7043
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "11-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 1,
+          "total_earnings": 1.004,
+          "deposits": 7.8500000000000005,
+          "cpa_count": 0,
+          "net_revenue": 4.0200000000000005,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 1.004
+        }
+      },
+      {
+        "date": "12-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 1,
+          "ftds": 1,
+          "total_earnings": 21.1995,
+          "deposits": 9.06,
+          "cpa_count": 1,
+          "net_revenue": 4.8,
+          "cpa_earnings": 20.0,
+          "rs_earnings": 1.1995
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 18,
+    "advertiser_name": "Esportes Da Sorte - BR",
+    "traffic_source_id": 2662,
+    "traffic_source_name": "Gabrieli #110",
+    "affiliate_link_id": 19540,
+    "affiliate_link_name": "Gabrieli #110",
+    "dates": [
+      {
+        "date": "01-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -18.755200000000002,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -75.02000000000001,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -18.755200000000002
+        }
+      },
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 2,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": 2.8572,
+          "deposits": 17.580000000000002,
+          "cpa_count": 0,
+          "net_revenue": 11.43,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 2.8572
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 1,
+          "total_earnings": 22.6639,
+          "deposits": 16.39,
+          "cpa_count": 1,
+          "net_revenue": 10.66,
+          "cpa_earnings": 20.0,
+          "rs_earnings": 2.6639
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 3.6299,
+          "deposits": 23.990000000000002,
+          "cpa_count": 0,
+          "net_revenue": 14.520000000000001,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 3.6299
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -4.1517,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -16.61,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -4.1517
+        }
+      },
+      {
+        "date": "11-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 18,
+    "advertiser_name": "Esportes Da Sorte - BR",
+    "traffic_source_id": 2692,
+    "traffic_source_name": "Leonardo #118",
+    "affiliate_link_id": 19698,
+    "affiliate_link_name": "Leonardo #118",
+    "dates": [
+      {
+        "date": "01-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 178,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 18,
+    "advertiser_name": "Esportes Da Sorte - BR",
+    "traffic_source_id": 2753,
+    "traffic_source_name": "Edson #57",
+    "affiliate_link_id": 21148,
+    "affiliate_link_name": "Edson #57",
+    "dates": [
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 2,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 18,
+    "advertiser_name": "Esportes Da Sorte - BR",
+    "traffic_source_id": 2860,
+    "traffic_source_name": "Allan #138",
+    "affiliate_link_id": 21198,
+    "affiliate_link_name": "Allan #138",
+    "dates": [
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 51,
+    "advertiser_name": "BR4Bet - BR",
+    "traffic_source_id": 2591,
+    "traffic_source_name": "Lucas #109",
+    "affiliate_link_id": 20529,
+    "affiliate_link_name": "Lucas #109",
+    "dates": [
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0172,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.11,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0172
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 26.704,
+          "deposits": 15.74,
+          "cpa_count": 1,
+          "net_revenue": 11.360000000000001,
+          "cpa_earnings": 25.0,
+          "rs_earnings": 1.7040000000000002
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 51,
+    "advertiser_name": "BR4Bet - BR",
+    "traffic_source_id": 2633,
+    "traffic_source_name": "Marlon #56",
+    "affiliate_link_id": 20581,
+    "affiliate_link_name": "Marlon #56",
+    "dates": [
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 1,
+          "total_earnings": 25.0,
+          "deposits": 279.35,
+          "cpa_count": 1,
+          "net_revenue": 0.0,
+          "cpa_earnings": 25.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 2,
+          "total_earnings": 80.1546,
+          "deposits": 410.16,
+          "cpa_count": 2,
+          "net_revenue": 201.03,
+          "cpa_earnings": 50.0,
+          "rs_earnings": 30.154600000000002
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -75.4825,
+          "deposits": 655.83,
+          "cpa_count": 0,
+          "net_revenue": -503.22,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -75.4825
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -24.721300000000003,
+          "deposits": 491.29,
+          "cpa_count": 0,
+          "net_revenue": -164.81,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -24.721300000000003
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -45.3057,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -302.04,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -45.3057
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 1,
+          "total_earnings": 25.0,
+          "deposits": 246.39000000000001,
+          "cpa_count": 1,
+          "net_revenue": 0.0,
+          "cpa_earnings": 25.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 1,
+          "total_earnings": 25.0,
+          "deposits": 248.20000000000002,
+          "cpa_count": 1,
+          "net_revenue": 0.0,
+          "cpa_earnings": 25.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -45.7272,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -304.85,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -45.7272
+        }
+      },
+      {
+        "date": "11-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 1,
+          "total_earnings": -31.3308,
+          "deposits": 166.65,
+          "cpa_count": 1,
+          "net_revenue": -375.54,
+          "cpa_earnings": 25.0,
+          "rs_earnings": -56.3308
+        }
+      },
+      {
+        "date": "12-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 839.1600000000001,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 51,
+    "advertiser_name": "BR4Bet - BR",
+    "traffic_source_id": 2662,
+    "traffic_source_name": "Gabrieli #110",
+    "affiliate_link_id": 20463,
+    "affiliate_link_name": "Gabrieli #110",
+    "dates": [
+      {
+        "date": "01-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 3.1276,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 20.85,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 3.1276
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 60,
+    "advertiser_name": "Superbet - BR",
+    "traffic_source_id": 484,
+    "traffic_source_name": "NobreTips",
+    "affiliate_link_id": 5960,
+    "affiliate_link_name": "Nobretips - Superbet",
+    "dates": [
+      {
+        "date": "01-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -13.318800000000001,
+          "deposits": 8.22,
+          "cpa_count": 0,
+          "net_revenue": -66.59,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -13.318800000000001
+        }
+      },
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 7.7042,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 38.52,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 7.7042
+        }
+      },
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 18.2204,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 91.10000000000001,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 18.2204
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -2.3079,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -11.540000000000001,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -2.3079
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -8.255,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -41.28,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -8.255
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -9.1529,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -45.760000000000005,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -9.1529
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 22.311400000000003,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 111.56,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 22.311400000000003
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 30.587200000000003,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 152.94,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 30.587200000000003
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.6317,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 3.16,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.6317
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 12.9238,
+          "deposits": 91.25,
+          "cpa_count": 0,
+          "net_revenue": 64.62,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 12.9238
+        }
+      },
+      {
+        "date": "11-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -1.1159000000000001,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -5.58,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -1.1159000000000001
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 60,
+    "advertiser_name": "Superbet - BR",
+    "traffic_source_id": 486,
+    "traffic_source_name": "FredRing",
+    "affiliate_link_id": 5983,
+    "affiliate_link_name": "Fred - SuperBet",
+    "dates": [
+      {
+        "date": "01-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -0.1202,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -0.6,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -0.1202
+        }
+      },
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.378,
+          "deposits": 2.46,
+          "cpa_count": 0,
+          "net_revenue": 1.8900000000000001,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.378
+        }
+      },
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.3421,
+          "deposits": 2.46,
+          "cpa_count": 0,
+          "net_revenue": 1.7100000000000002,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.3421
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 1,
+          "total_earnings": 0.5982000000000001,
+          "deposits": 4.11,
+          "cpa_count": 0,
+          "net_revenue": 2.99,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.5982000000000001
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.11560000000000001,
+          "deposits": 4.1000000000000005,
+          "cpa_count": 0,
+          "net_revenue": 0.5800000000000001,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.11560000000000001
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.1937,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.9700000000000001,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.1937
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -0.1764,
+          "deposits": 1.6400000000000001,
+          "cpa_count": 0,
+          "net_revenue": -0.88,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -0.1764
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.6245,
+          "deposits": 3.2800000000000002,
+          "cpa_count": 0,
+          "net_revenue": 3.12,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.6245
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -0.0028,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -0.01,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -0.0028
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.10500000000000001,
+          "deposits": 0.8300000000000001,
+          "cpa_count": 0,
+          "net_revenue": 0.52,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.10500000000000001
+        }
+      },
+      {
+        "date": "11-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.08710000000000001,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.44,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.08710000000000001
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 60,
+    "advertiser_name": "Superbet - BR",
+    "traffic_source_id": 567,
+    "traffic_source_name": "Anderson Show",
+    "affiliate_link_id": 6623,
+    "affiliate_link_name": "TipsShow - SuperBet",
+    "dates": [
+      {
+        "date": "01-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -0.42050000000000004,
+          "deposits": 3.29,
+          "cpa_count": 0,
+          "net_revenue": -2.1,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -0.42050000000000004
+        }
+      },
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.5325,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 2.66,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.5325
+        }
+      },
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -0.9631000000000001,
+          "deposits": 19.720000000000002,
+          "cpa_count": 0,
+          "net_revenue": -4.82,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -0.9631000000000001
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -1.5452000000000001,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -7.73,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -1.5452000000000001
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -0.0863,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -0.43,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -0.0863
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -1.7353,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -8.68,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -1.7353
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.7416,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 3.71,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.7416
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 1.0115,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 5.0600000000000005,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 1.0115
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -0.020800000000000003,
+          "deposits": 8.27,
+          "cpa_count": 0,
+          "net_revenue": -0.1,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -0.020800000000000003
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 2.3727,
+          "deposits": 17.42,
+          "cpa_count": 0,
+          "net_revenue": 11.860000000000001,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 2.3727
+        }
+      },
+      {
+        "date": "11-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.5910000000000001,
+          "deposits": 3.3400000000000003,
+          "cpa_count": 0,
+          "net_revenue": 2.96,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.5910000000000001
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 60,
+    "advertiser_name": "Superbet - BR",
+    "traffic_source_id": 788,
+    "traffic_source_name": "Pedro Remes",
+    "affiliate_link_id": 8447,
+    "affiliate_link_name": "PRScore - SuperBet",
+    "dates": [
+      {
+        "date": "01-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 16.43,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 60,
+    "advertiser_name": "Superbet - BR",
+    "traffic_source_id": 1968,
+    "traffic_source_name": "Arthur #46",
+    "affiliate_link_id": 14081,
+    "affiliate_link_name": "superbet #46",
+    "dates": [
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 4,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "11-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 60,
+    "advertiser_name": "Superbet - BR",
+    "traffic_source_id": 2197,
+    "traffic_source_name": "Palpites ALS #47",
+    "affiliate_link_id": 16019,
+    "affiliate_link_name": "Palpites ALS SUPERBET",
+    "dates": [
+      {
+        "date": "01-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -1.9485000000000001,
+          "deposits": 1.6400000000000001,
+          "cpa_count": 0,
+          "net_revenue": -9.74,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -1.9485000000000001
+        }
+      },
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -1.3485,
+          "deposits": 39.4,
+          "cpa_count": 0,
+          "net_revenue": -6.74,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -1.3485
+        }
+      },
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 4.5403,
+          "deposits": 13.15,
+          "cpa_count": 0,
+          "net_revenue": 22.700000000000003,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 4.5403
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 3.4502,
+          "deposits": 24.400000000000002,
+          "cpa_count": 0,
+          "net_revenue": 17.25,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 3.4502
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 2.4877000000000002,
+          "deposits": 27.060000000000002,
+          "cpa_count": 0,
+          "net_revenue": 12.440000000000001,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 2.4877000000000002
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -7.6154,
+          "deposits": 34.43,
+          "cpa_count": 0,
+          "net_revenue": -38.08,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -7.6154
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 1.8637000000000001,
+          "deposits": 18.03,
+          "cpa_count": 0,
+          "net_revenue": 9.32,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 1.8637000000000001
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 2.2337000000000002,
+          "deposits": 14.75,
+          "cpa_count": 0,
+          "net_revenue": 11.17,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 2.2337000000000002
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 3.8099000000000003,
+          "deposits": 24.82,
+          "cpa_count": 0,
+          "net_revenue": 19.05,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 3.8099000000000003
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 1.9409,
+          "deposits": 22.89,
+          "cpa_count": 0,
+          "net_revenue": 9.700000000000001,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 1.9409
+        }
+      },
+      {
+        "date": "11-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.8881,
+          "deposits": 5.84,
+          "cpa_count": 0,
+          "net_revenue": 4.44,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.8881
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 60,
+    "advertiser_name": "Superbet - BR",
+    "traffic_source_id": 2423,
+    "traffic_source_name": "Robert #84",
+    "affiliate_link_id": 19704,
+    "affiliate_link_name": "Robert #84",
+    "dates": [
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 1,
+          "ftds": 1,
+          "total_earnings": 20.3202,
+          "deposits": 16.39,
+          "cpa_count": 1,
+          "net_revenue": 1.6,
+          "cpa_earnings": 20.0,
+          "rs_earnings": 0.32020000000000004
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 60,
+    "advertiser_name": "Superbet - BR",
+    "traffic_source_id": 2662,
+    "traffic_source_name": "Gabrieli #110",
+    "affiliate_link_id": 19723,
+    "affiliate_link_name": "Gabrieli #110",
+    "dates": [
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 1,
+          "total_earnings": 25.5878,
+          "deposits": 36.4,
+          "cpa_count": 1,
+          "net_revenue": 27.94,
+          "cpa_earnings": 20.0,
+          "rs_earnings": 5.5878000000000005
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "11-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 60,
+    "advertiser_name": "Superbet - BR",
+    "traffic_source_id": 2797,
+    "traffic_source_name": "Fernanda #126",
+    "affiliate_link_id": 20802,
+    "affiliate_link_name": "Fernanda #126",
+    "dates": [
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 2,
+          "signups": 1,
+          "ftds": 1,
+          "total_earnings": 0.0,
+          "deposits": 16.400000000000002,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "11-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -132.2517,
+          "deposits": 166.98000000000002,
+          "cpa_count": 1,
+          "net_revenue": -761.26,
+          "cpa_earnings": 20.0,
+          "rs_earnings": -152.2517
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 60,
+    "advertiser_name": "Superbet - BR",
+    "traffic_source_id": 2843,
+    "traffic_source_name": "William #130",
+    "affiliate_link_id": 21111,
+    "affiliate_link_name": "William #130",
+    "dates": [
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 60,
+    "advertiser_name": "Superbet - BR",
+    "traffic_source_id": 2860,
+    "traffic_source_name": "Allan #138",
+    "affiliate_link_id": 21201,
+    "affiliate_link_name": "Allan #138",
+    "dates": [
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 67,
+    "advertiser_name": "Melbet DV - BR",
+    "traffic_source_id": 2200,
+    "traffic_source_name": "Jordan #67",
+    "affiliate_link_id": 20917,
+    "affiliate_link_name": "Jordan #67",
+    "dates": [
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -0.12390000000000001,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -0.5,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -0.12390000000000001
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 67,
+    "advertiser_name": "Melbet DV - BR",
+    "traffic_source_id": 2621,
+    "traffic_source_name": "Luis FErnando #112",
+    "affiliate_link_id": 19195,
+    "affiliate_link_name": "Luis Fernando #112",
+    "dates": [
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 1,
+          "total_earnings": 33.3051,
+          "deposits": 13.32,
+          "cpa_count": 1,
+          "net_revenue": 13.22,
+          "cpa_earnings": 30.0,
+          "rs_earnings": 3.3051000000000004
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 67,
+    "advertiser_name": "Melbet DV - BR",
+    "traffic_source_id": 2650,
+    "traffic_source_name": "Pedro Ivan #90",
+    "affiliate_link_id": 20095,
+    "affiliate_link_name": "Pedro Ivan #90",
+    "dates": [
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 67,
+    "advertiser_name": "Melbet DV - BR",
+    "traffic_source_id": 2662,
+    "traffic_source_name": "Gabrieli #110",
+    "affiliate_link_id": 19542,
+    "affiliate_link_name": "Gabrieli #110",
+    "dates": [
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 90,
+    "advertiser_name": "EstrelaBet - BR",
+    "traffic_source_id": 486,
+    "traffic_source_name": "FredRing",
+    "affiliate_link_id": 15385,
+    "affiliate_link_name": "Fred - EstrelaBet",
+    "dates": [
+      {
+        "date": "01-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -0.0189,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -0.09000000000000001,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -0.0189
+        }
+      },
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -0.011300000000000001,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -0.060000000000000005,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -0.011300000000000001
+        }
+      },
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -0.0025,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -0.01,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -0.0025
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.2903,
+          "deposits": 1.6400000000000001,
+          "cpa_count": 0,
+          "net_revenue": 1.4500000000000002,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.2903
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -0.0013000000000000002,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -0.01,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -0.0013000000000000002
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -0.0239,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -0.12000000000000001,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -0.0239
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -0.0013000000000000002,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -0.01,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -0.0013000000000000002
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -0.0115,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -0.060000000000000005,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -0.0115
+        }
+      },
+      {
+        "date": "11-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -0.0064,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -0.030000000000000002,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -0.0064
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 90,
+    "advertiser_name": "EstrelaBet - BR",
+    "traffic_source_id": 588,
+    "traffic_source_name": "DG.C TIPS",
+    "affiliate_link_id": 13375,
+    "affiliate_link_name": "DG. EstrelaBet",
+    "dates": [
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.010100000000000001,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.05,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.010100000000000001
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "11-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": -0.0013000000000000002,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -0.01,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -0.0013000000000000002
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 133,
+    "advertiser_name": "LotoGreen - BR",
+    "traffic_source_id": 1968,
+    "traffic_source_name": "Arthur #46",
+    "affiliate_link_id": 19633,
+    "affiliate_link_name": "Arthur #46",
+    "dates": [
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 133,
+    "advertiser_name": "LotoGreen - BR",
+    "traffic_source_id": 2368,
+    "traffic_source_name": "Jonathan #102",
+    "affiliate_link_id": 20252,
+    "affiliate_link_name": "Jonathan #102",
+    "dates": [
+      {
+        "date": "01-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 2,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 1,
+          "total_earnings": 16.898,
+          "deposits": 13.15,
+          "cpa_count": 1,
+          "net_revenue": 12.65,
+          "cpa_earnings": 15.0,
+          "rs_earnings": 1.8980000000000001
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 4,
+          "signups": 2,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 1,
+          "total_earnings": 16.4754,
+          "deposits": 9.84,
+          "cpa_count": 1,
+          "net_revenue": 9.84,
+          "cpa_earnings": 15.0,
+          "rs_earnings": 1.4754
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 3,
+          "signups": 2,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "11-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 3,
+          "signups": 2,
+          "ftds": 1,
+          "total_earnings": 16.5028,
+          "deposits": 10.020000000000001,
+          "cpa_count": 1,
+          "net_revenue": 10.020000000000001,
+          "cpa_earnings": 15.0,
+          "rs_earnings": 1.5028000000000001
+        }
+      },
+      {
+        "date": "12-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 1,
+          "total_earnings": 10.3863,
+          "deposits": 16.78,
+          "cpa_count": 1,
+          "net_revenue": -30.76,
+          "cpa_earnings": 15.0,
+          "rs_earnings": -4.613700000000001
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 133,
+    "advertiser_name": "LotoGreen - BR",
+    "traffic_source_id": 2591,
+    "traffic_source_name": "Lucas #109",
+    "affiliate_link_id": 20091,
+    "affiliate_link_name": "Lucas #109",
+    "dates": [
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 37.3283,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 248.86,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 37.3283
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 133,
+    "advertiser_name": "LotoGreen - BR",
+    "traffic_source_id": 2621,
+    "traffic_source_name": "Luis FErnando #112",
+    "affiliate_link_id": 19861,
+    "affiliate_link_name": "Luis FErnando #112",
+    "dates": [
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 1,
+          "total_earnings": 49.671,
+          "deposits": 231.14000000000001,
+          "cpa_count": 1,
+          "net_revenue": 231.14000000000001,
+          "cpa_earnings": 15.0,
+          "rs_earnings": 34.671
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 2,
+          "signups": 2,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 133,
+    "advertiser_name": "LotoGreen - BR",
+    "traffic_source_id": 2633,
+    "traffic_source_name": "Marlon #56",
+    "affiliate_link_id": 20583,
+    "affiliate_link_name": "Marlon #56",
+    "dates": [
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 3,
+          "signups": 3,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 3,
+          "signups": 2,
+          "ftds": 1,
+          "total_earnings": 15.0,
+          "deposits": 246.49,
+          "cpa_count": 1,
+          "net_revenue": 0.0,
+          "cpa_earnings": 15.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 5,
+          "signups": 2,
+          "ftds": 0,
+          "total_earnings": -32.1931,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -214.62,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -32.1931
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": -154.979,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": -1033.19,
+          "cpa_earnings": 0.0,
+          "rs_earnings": -154.979
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 1,
+          "total_earnings": 15.0,
+          "deposits": 271.47,
+          "cpa_count": 1,
+          "net_revenue": 0.0,
+          "cpa_earnings": 15.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 245.89360000000002,
+          "deposits": 1367.8200000000002,
+          "cpa_count": 0,
+          "net_revenue": 1639.2900000000002,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 245.89360000000002
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 1,
+          "total_earnings": 15.0,
+          "deposits": 163.77,
+          "cpa_count": 1,
+          "net_revenue": 0.0,
+          "cpa_earnings": 15.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "11-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 25.022100000000002,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 166.81,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 25.022100000000002
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 133,
+    "advertiser_name": "LotoGreen - BR",
+    "traffic_source_id": 2650,
+    "traffic_source_name": "Pedro Ivan #90",
+    "affiliate_link_id": 20093,
+    "affiliate_link_name": "Pedro Ivan #90",
+    "dates": [
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 133,
+    "advertiser_name": "LotoGreen - BR",
+    "traffic_source_id": 2662,
+    "traffic_source_name": "Gabrieli #110",
+    "affiliate_link_id": 19724,
+    "affiliate_link_name": "Gabrieli #110",
+    "dates": [
+      {
+        "date": "01-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 11.2139,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 74.76,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 11.2139
+        }
+      },
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 2,
+          "signups": 1,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 1,
+          "total_earnings": 11.269300000000001,
+          "deposits": 19.34,
+          "cpa_count": 1,
+          "net_revenue": -24.87,
+          "cpa_earnings": 15.0,
+          "rs_earnings": -3.7307
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 9.5309,
+          "deposits": 19.03,
+          "cpa_count": 0,
+          "net_revenue": 63.540000000000006,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 9.5309
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "11-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 133,
+    "advertiser_name": "LotoGreen - BR",
+    "traffic_source_id": 2692,
+    "traffic_source_name": "Leonardo #118",
+    "affiliate_link_id": 19693,
+    "affiliate_link_name": "Leonardo #118",
+    "dates": [
+      {
+        "date": "01-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 29,
+          "signups": 0,
+          "ftds": 1,
+          "total_earnings": 17.4646,
+          "deposits": 8.22,
+          "cpa_count": 1,
+          "net_revenue": 16.43,
+          "cpa_earnings": 15.0,
+          "rs_earnings": 2.4646
+        }
+      },
+      {
+        "date": "02-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "04-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "05-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "06-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 1,
+          "total_earnings": -43.3825,
+          "deposits": 163.93,
+          "cpa_count": 1,
+          "net_revenue": -389.22,
+          "cpa_earnings": 15.0,
+          "rs_earnings": -58.3825
+        }
+      },
+      {
+        "date": "07-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.49300000000000005,
+          "deposits": 3.2800000000000002,
+          "cpa_count": 0,
+          "net_revenue": 3.29,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.49300000000000005
+        }
+      },
+      {
+        "date": "08-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "09-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "10-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      },
+      {
+        "date": "11-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 0,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.02,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.13,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.02
+        }
+      }
+    ]
+  },
+  {
+    "advertiser_id": 133,
+    "advertiser_name": "LotoGreen - BR",
+    "traffic_source_id": 2860,
+    "traffic_source_name": "Allan #138",
+    "affiliate_link_id": 21195,
+    "affiliate_link_name": "Allan #138",
+    "dates": [
+      {
+        "date": "03-03-2026",
+        "granularity": "daily",
+        "metrics": {
+          "clicks": 1,
+          "signups": 0,
+          "ftds": 0,
+          "total_earnings": 0.0,
+          "deposits": 0.0,
+          "cpa_count": 0,
+          "net_revenue": 0.0,
+          "cpa_earnings": 0.0,
+          "rs_earnings": 0.0
+        }
+      }
+    ]
+  }
+]

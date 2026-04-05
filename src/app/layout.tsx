@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "IREV Integration Center",
-  description: "Automated API bridge for bookmaker affiliate data",
+  title: "IREV Integration Monitor",
+  description: "Monitor de integração de afiliados para IREV",
 };
 
 export default function RootLayout({
@@ -15,57 +15,66 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="pt-BR" className="dark">
-      <body className={`${inter.className} bg-[#0a0a0a] text-white min-h-screen flex`}>
-        {/* Sidebar */}
-        <aside className="w-64 border-r border-zinc-800 flex flex-col p-6 gap-8 bg-[#0a0a0a]">
-          <div className="flex items-center gap-3 px-2">
-            <div className="w-8 h-8 bg-white rounded-lg flex items-center justify-center">
-              <span className="text-black font-bold text-xl">I</span>
+    <html lang="pt-BR">
+      <body className={`${inter.className} min-h-screen antialiased`}>
+        <div className="flex min-h-screen">
+          {/* Sidebar */}
+          <aside className="w-64 border-r border-white/5 bg-black/20 p-6 flex flex-col gap-8">
+            <div className="flex items-center gap-2">
+              <div className="h-8 w-8 rounded-lg bg-indigo-500 shadow-lg shadow-indigo-500/20" />
+              <span className="text-xl font-bold tracking-tight text-white">IREV Bridge</span>
             </div>
-            <h1 className="font-bold text-lg tracking-tight">SyncCenter</h1>
-          </div>
+            <nav className="flex flex-col gap-1.5 flex-1">
+              <a href="/" className="px-4 py-3 rounded-xl bg-white/5 text-sm font-bold text-white hover:bg-white/10 transition-all border border-white/5">DASHBOARD</a>
+              
+              <div className="mt-4 mb-2 px-4 text-[10px] font-black uppercase tracking-[0.2em] text-white/30 italic">Operação IREV</div>
+              <a href="/irev-diff" className="px-4 py-3 rounded-xl bg-blue-600/20 text-blue-400 text-sm font-black hover:bg-blue-600/30 transition-all border border-blue-500/20 flex items-center justify-between group">
+                DIFERENÇA HOJE IREV
+                <div className="w-1.5 h-1.5 rounded-full bg-blue-500 animate-pulse group-hover:scale-150 transition-transform" />
+              </a>
+              
+              <div className="mt-6 mb-2 px-4 text-[10px] font-black uppercase tracking-[0.2em] text-white/30 italic">Integrações</div>
+              <div className="grid grid-cols-1 gap-1">
+                {[
+                  { name: "Blaze", href: "/blaze" },
+                  { name: "BetMGM/Stake", href: "/betmgm" },
+                  { name: "Smartico", href: "/smartico" },
+                  { name: "Oddsscanner", href: "/oddsscanner" },
+                  { name: "Novibet", href: "/novibet" },
+                  { name: "Sportingbet", href: "/sportingbet" }
+                ].map((item) => (
+                  <a key={item.name} href={item.href} className="px-4 py-2.5 rounded-xl text-xs font-bold text-white/50 hover:text-white hover:bg-white/5 transition-all flex items-center gap-2">
+                    <div className="w-1 h-1 rounded-full bg-white/10" />
+                    {item.name}
+                  </a>
+                ))}
+              </div>
 
-          <nav className="flex flex-col gap-2">
-            <a href="/" className="flex items-center gap-3 px-3 py-2 rounded-lg bg-zinc-900 text-white font-medium">
-              <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect width="7" height="9" x="3" y="3" rx="1"/><rect width="7" height="5" x="14" y="3" rx="1"/><rect width="7" height="9" x="14" y="12" rx="1"/><rect width="7" height="5" x="3" y="16" rx="1"/></svg>
-              Dashboard
-            </a>
-            <a href="/config" className="flex items-center gap-3 px-3 py-2 rounded-lg text-zinc-400 hover:text-white hover:bg-zinc-900 transition-colors">
-              <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"/><circle cx="12" cy="12" r="3"/></svg>
-              Configuração
-            </a>
-            <a href="/logs" className="flex items-center gap-3 px-3 py-2 rounded-lg text-zinc-400 hover:text-white hover:bg-zinc-900 transition-colors">
-              <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M13 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"/><polyline points="13 2 13 9 20 9"/></svg>
-              Logs de Sync
-            </a>
-          </nav>
-
-          <div className="mt-auto pt-6 border-t border-zinc-900">
-             <div className="flex items-center gap-3 px-2">
-                <div className="w-2 h-2 rounded-full bg-emerald-500 shadow-[0_0_8px_rgba(16,185,129,0.5)]"></div>
-                <span className="text-xs text-zinc-500 font-medium uppercase tracking-wider">Sistema Online</span>
-             </div>
-          </div>
-        </aside>
-
-        {/* Content */}
-        <main className="flex-1 flex flex-col min-h-screen bg-[#050505]">
-          <header className="h-16 border-b border-zinc-900 flex items-center justify-between px-8 bg-[#0a0a0a]/50 backdrop-blur-md sticky top-0 z-10">
-            <div className="flex items-center gap-2 text-sm text-zinc-500">
-              <span>Projetos</span>
-              <span>/</span>
-              <span className="text-zinc-200">Integração IREV</span>
+              <div className="mt-auto pt-6 border-t border-white/5">
+                <a href="/config/affiliates" className="px-4 py-3 rounded-xl text-xs font-bold text-white/40 hover:text-white hover:bg-white/5 transition-all flex items-center gap-3">
+                  CONFIGURAR MAPA
+                </a>
+                <a href="/config/settings" className="px-4 py-3 rounded-xl text-xs font-bold text-indigo-400 hover:text-white hover:bg-indigo-500/10 transition-all flex items-center gap-3 border border-indigo-500/10 mt-1">
+                  GESTÃO DE CHAVES
+                </a>
+              </div>
+            </nav>
+            <div className="mt-auto pt-6 border-t border-white/5">
+              <div className="flex items-center gap-3">
+                <div className="h-10 w-10 rounded-full bg-indigo-500/20 ring-1 ring-indigo-500/30" />
+                <div>
+                  <div className="text-sm font-medium text-white">Admin</div>
+                  <div className="text-xs text-white/40">Status: Online</div>
+                </div>
+              </div>
             </div>
-            <button className="px-4 py-2 bg-white text-black text-sm font-bold rounded-lg hover:bg-zinc-200 transition-colors">
-              Sincronizar Agora
-            </button>
-          </header>
+          </aside>
           
-          <div className="p-8">
+          {/* Main Content */}
+          <main className="flex-1 p-8 overflow-y-auto">
             {children}
-          </div>
-        </main>
+          </main>
+        </div>
       </body>
     </html>
   );
